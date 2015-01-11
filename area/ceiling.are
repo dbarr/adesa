@@ -1,0 +1,24 @@
+#AREA
+The Topmost Area~
+Z 3
+C 122
+K none ~
+L @@W{@@G SYS @@W}@@N~
+N 0
+I 1 1
+V 32700 32766
+X 0
+F 15
+U You here the screams of the Dead within your head.~
+O Zenithar~
+R Zenithar~
+W Zenithar~
+S Title not shown on area list.
+#ROOMS
+#32766
+New room~
+DO NOT DELETE THIS ARE...IT IS REQUIRED FOR THE MAKEAREA COMMAND~
+4 0
+S
+#0
+#$

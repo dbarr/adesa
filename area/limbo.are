@@ -1,0 +1,556 @@
+#AREA
+Limbo~
+Z 3
+C 1
+K none~
+L {?? ??}~
+N 24
+I 0 0
+V 1 20
+X 0
+F 10
+U @@WAn @@yAngel @@Wsings a @@mhymn@@N.~
+O diku~
+R muffin que ~
+W que ~
+S Title not shown on area list.
+E Energy does not regenerate.
+#ROOMS
+#8
+Banking Room~
+This small room is home to a large counter stretching across the room, with a
+
+
+ single reinforced glass window set into it.  This is the bank, magically
+
+
+linked to the other banks within the realms.
+
+
+~
+0 0
+D3
+~
+~
+0 -1 11
+S
+#5
+The Arena~
+~
+3670156 0
+D1
+~
+~
+0 0 6
+D2
+~
+~
+0 -1 4
+C
+eat brandish zap quaff recite~
+X
+summon rune:shock rune:fire rune:poison rune:warning visit 'seal room' tranquility 'tranquility novice' 'tranquility intermediate' 'tranquility advanced' 'tranquility expert' 'tranquility master'~
+S
+#14
+Protectorate Clan Donation Room~
+The room is for clan members to donate equipment to other people that might need it.
+
+
+~
+8 0
+D3
+~
+~
+0 -1 10
+S
+#12
+End of the Passage~
+You are standing at the end of a short passage.  To the South, you can see the
+
+
+ gleaming brightness of the Grand Hall, while to the west you can see the
+
+
+Protectorate recovery room.
+
+
+~
+8 0
+D2
+~
+~
+0 -1 11
+D3
+~
+~
+0 -1 13
+S
+#11
+A small passage~
+You are in a small passage within the headquarters of Protectorate.To the
+
+
+south
+
+
+ you can see the Grand Hall, whilst the passage continues to the North.
+
+
+~
+8 0
+D0
+~
+~
+0 -1 12
+D1
+~
+~
+0 -1 8
+D2
+~
+~
+0 -1 10
+D3
+~
+~
+0 -1 9
+S
+#10
+Protectorate Clan House~
+~
+12 0
+D0
+~
+~
+0 -1 11
+D1
+~
+~
+0 -1 14
+S
+#1
+@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@aP@@le@@Wn@@aa@@ll@@Wt@@ay @@dB@@go@@Wx@@m.@@N~
+@@lA Mystical Being !!!!VIVESECTS!!!! you into a living corpse with it's pierce!@@l
+@@gThat really did HURT!
+@@lA Mystical Being !!!!VIVESECTS!!!! you into a living corpse with it's pierce!@@l
+@@gThat really did HURT!
+You sure are BLEEDING!
+@@a[@@WYOU@@a:@@eBLOODMUSH!@@a] [@@WVictim@@a:@@rGroovy@@a]@@N
+@@lA Mystical Being !!!!VIVESECTS!!!! you into a living corpse with it's pierce!@@l
+@@NA Mystical Being rips a gaping hole down your back!@@N
+You have been KILLED!!@@n
+~
+1205278 0
+C
+get token loot examine write edit auction bid cdonate clutch donate drop give make put take sacrifice connect flee hunt recall / kdon keep home steal qpspend pauc answer ask beep clan gossip pemote emote , flame gtell ; music newbie question race reply shout tongue yell zzz game vamp { diplomat crusade adept ooc pkok title family negotiate banish accept tell quest rlord order gauction qauction ally rename note~
+S
+#2
+Limbo~
+~
+1180700 0
+C
+steal eat give brandish zap quaff recite~
+S
+#3
+The Arena~
+~
+3670156 0
+D1
+~
+~
+0 -1 4
+X
+summon rune:shock rune:fire rune:poison rune:warning visit 'seal room' tranquility 'tranquility novice' 'tranquility intermediate' 'tranquility advanced' 'tranquility expert' 'tranquility master'~
+S
+#4
+The Arena~
+~
+3670156 0
+D0
+~
+~
+0 0 5
+D3
+~
+~
+0 0 3
+C
+eat brandish zap quaff recite~
+X
+summon rune:shock rune:fire rune:poison rune:warning visit 'seal room' tranquility 'tranquility novice' 'tranquility intermediate' 'tranquility advanced' 'tranquility expert' 'tranquility master'~
+S
+#6
+The Arena~
+A private arena room with no charmed mobiles allowed.
+~
+3736204 0
+D3
+~
+~
+0 -1 5
+C
+eat brandish zap quaff recite~
+X
+summon rune:shock rune:fire rune:poison rune:warning visit 'seal room' tranquility 'tranquility novice' 'tranquility intermediate' 'tranquility advanced' 'tranquility expert' 'tranquility master'~
+S
+#7
+Stephen's Office~
+This enormous rooms acts as Stephen's Office.  As Immortal Sponsor of the
+
+
+PulpDog Clan, he has final overall say in the policies and decisions made by
+
+
+the clan.  He is also very powerful, and able to silence those who might dare
+
+
+to rise against him.
+
+
+ 
+
+
+Before you, a gleaming marble desk is home to piles of paper, as well as a
+
+
+small framed photograph.  Hanging from the walls are framed portraits of
+
+
+various Immortals - Kahn, Hatchet included.
+
+
+~
+24596 0
+E
+photograph~
+The photograph shows a young woman with dark hair curled up on a bed looking VERY cute!~
+E
+photo~
+The photograph shows a young woman with dark hair curled up on a bed looking VERY cute!~
+S
+#9
+The Entrance to the Protectorate Clan~
+You are in a circular-shaped room, with a stained-glass window high above you.
+
+
+ To the east is the rooms and passages that constitute the Protectorate clan
+
+
+HQ.
+
+
+~
+8 0
+D1
+~
+~
+0 -1 11
+S
+#13
+The Clan Healers Room~
+~
+8 0
+D1
+~
+~
+0 -1 12
+S
+#0
+#MOBILES
+#4
+banker~
+The old Banker~
+The old Banker ~
+He looks big, mean, and scared of PulpDog members holding him up.
+
+
+~
+32779 128 900 S
+82 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+
+
+~
+~
+1 0 1000 S
+29 2
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#2
+elvis~
+Elvis~
+Elvis, King of rock and roll stands here, looking damn funky!
+
+
+~
+Such people as you do not look at kings.
+
+
+~
+3145731 0 1000 S
+71 1
+-100 50 50 0 0
+! 0 0 0 7 0 0 0
+S spec_rewield~
+#6
+doggy~
+a whinging doggy~
+A whinging doggy is here, yapping and snapping at your heels.
+
+
+~
+Looks kinda like a person.  Better put it out of it's misery!!
+
+
+~
+3 0 1000 S
+6 0
+200 -5 -5 0 0
+! 0 0 0 7 0 0 0
+#3
+Fishie~
+A cute li'l goldfish.~
+A cute li'l goldfish sinks its fangs into you!~
+~
+1 8320 -1000 S
+57 2
+0 6 60 0 0
+! 0 0 0 7 0 0 0
+S spec_thief~
+#5
+Healer~
+The old healer~
+The old healer~
+~
+12291 0 0 S
+1 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+S spec_cast_adept~
+#7
+jailrat~
+@@bA rat@@N~
+@@bA rat with wicked looking @@yteeth@@b scurries around@@N
+
+
+~
+~
+262149 32808 0 S
+10 1
+-100 10 10 0 0
+! 2 0 0 7 870400 0 0
+S spec_poison~
+#8
+@@gBones@@N~
+@@gBones@@N~
+@@gA pile of bones rattles in the corner@@N
+
+
+~
+~
+278609 131072 0 S
+15 1
+0 0 0 0 0
+! 7 0 0 7 0 0 0
+#0
+#OBJECTS
+#7
+erigol~
+@@cWeapon of @@aPure Power@@N~
+@@cWeapon of @@aPure Power @@cis laying here@@g.@@N~
+5 2068971524 270337 130955
+0 0 0 11
+1
+A 1 100
+A 2 100
+A 3 100
+A 4 100
+A 5 100
+A 12 5000
+A 13 5000
+A 14 5000
+A 17 -5000
+A 18 1000
+A 19 1000
+A 24 -1000
+L 1
+#2
+coin gold~
+@@Na @@ygold@@N coin~
+One miserable gold coin.~
+20 0 1 1
+1 0 0 0
+1
+L 1
+#3
+coins gold~
+@@y%s gold@@N coins~
+A pile of gold coins.~
+20 0 1 1
+0 0 0 0
+1
+L 1
+#10
+Corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+23 0 0 1
+0 0 0 1
+100
+L 1
+#11
+Corpse pcorpse~
+corpse of %s~
+The corpse of %s is lying here.~
+24 0 0 1
+0 0 0 1
+100
+L 1
+#20
+mushroom mush truffle~
+@@dA Black T@@br@@du@@bf@@df@@bl@@de@@N~
+@@dA Black T@@br@@du@@bf@@df@@bl@@de pops out of the ground.@@N
+~
+19 0 1 1
+25 0 0 0
+2
+L 1
+#18
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+1 0 1 1
+0 0 -1 0
+1
+L 1
+#19
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+25 64 0 1
+0 0 0 0
+5000
+L 1
+#91
+board~
+a board~
+The Clan Board is here.~
+27 0 0 1
+28 1 1 91
+10000
+L 1
+#51
+badge independence clannone~
+@@WB@@gadge @@Wo@@gf @@WI@@gndependence@@N~
+@@gA @@WB@@gadge @@Wo@@gf @@WI@@gndependence@@N lies here.
+~
+9 536903840 524289 110491
+0 0 0 0
+1
+A 13 280
+A 12 280
+A 14 440
+A 17 -380
+A 18 5
+A 19 10
+A 24 -50
+L 95
+#52
+lodan lodanup clannone~
+@@aL@@codan@@W'@@cup@@N~
+@@aL@@codan@@W'@@cup@@N is here.
+~
+9 536903840 524289 110491
+0 0 0 0
+1
+A 13 410
+A 12 450
+A 14 600
+A 17 -620
+A 18 15
+A 19 15
+A 24 -75
+L 105
+#53
+azygos mark clannone~
+@@dA@@mz@@py@@gg@@Wo@@ds@@m @@pM@@ga@@Wr@@dk@@N~
+@@NAn @@dA@@mz@@py@@gg@@Wo@@ds@@m @@pM@@ga@@Wr@@dk@@N is here.
+~
+9 536903840 524289 110491
+0 0 0 0
+1
+A 13 790
+A 12 915
+A 14 1000
+A 17 -670
+A 18 20
+A 19 20
+A 24 -100
+L 120
+#12
+token~
+@@dE@@grigol's @@yT@@boken@@N~
+~
+9 0 9 1
+0 0 0 0
+1
+A 18 100
+A 19 100
+A 17 -1000
+A 13 1000
+A 12 1000
+L 80
+#13
+realm~
+change me, armor~
+Change me
+~
+9 13238400 1 1
+0 0 0 0
+3
+A 13 350
+A 19 40
+A 18 40
+A 12 350
+A 14 350
+A 20 -25
+A 17 -350
+L 20
+#14
+realm~
+change me, light~
+Change me
+~
+1 13238400 1 1
+0 0 -1 0
+3
+A 13 350
+A 19 40
+A 18 40
+A 12 350
+A 17 -350
+A 14 350
+A 20 -25
+L 20
+#4
+board~
+announcement Board~
+A board for global announcements is here.
+~
+27 0 0 1
+0 81 81 4
+1
+L 1
+#0
+#RESETS
+M 0 4 1 8 (null)
+
+M 0 5 1 13 (null)
+
+S
+#$

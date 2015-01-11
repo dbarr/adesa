@@ -1,0 +1,267 @@
+#AREA
+@@W{@@eNONE!@@W} @@mSYSTEM@@N       @@eDO NOT USE!@@N~
+Z 3
+C 3
+K none~
+L {?? ??}~
+N 42
+I 0 0
+V 30 40
+X 0
+F 15
+U You hear the screams of the Dead within your head.~
+O stephen~
+R stephen~
+W stephen~
+S Title not shown on area list.
+#ROOMS
+#32
+@@RThe READ THIS DESCRIPTION room.@@g~
+@@RBEFORE YOU RECALL, PLEASE READ THE REST OF THIS DESCRIPTION!!! @@y There
+have been many changes to the mud.  You have been transferred to this room,
+because your playerfile was last saved BEFORE these changes came into force.
+The major change has been in the skills and spells.  There is no longer such
+an overlap between classes.  Now, each class ONLY gets skills or spells the
+they "should" have.  Now, for some of you, this is not going to help much, i
+know.  But, the old way skills/spells were organized, was from before we went
+multiclass.  The change reflects the fact that classes should have specific
+abilities.  There's not really much point in being a multiclass mud, if each
+class has all the other's abilities. There are new spells and skills.  Many
+old ones have been changed a LOT. Because of this, you will find that you are
+no longer practiced in _any_ skill or spell. Before you totally panic, you
+should also note that your number of practices has been increased in line with
+the number of skills/spells lost.  There should also be a surplus, for you to
+use as you like.
+ In your inventory, you should also find a token, which will allow you to ask
+an Immortal to set the order of your classes.  Instead of being race-based,
+you now select the order of classes for your character, best -> worst.
+ Another new feature is the 'SHELP' command, which gives help for spells.
+(And soon, skills.)
+Lots of other things about the mud have been changed or tweaked.  More detailed information
+will (hopefully) made available.
+Thanks for reading this.   
+ 
+Stephen
+~
+12 0
+S
+#30
+The Utility Room~
+This room serves no purpose at present.
+This area is used to hold some mobs and objects for some new spells, and
+a few other things.  I'll add something here soon.
+There is a test exit going up to test the climb skill.
+~
+4 0
+D3
+~
+~
+0 -1 33
+D4
+~
+~
+0 -1 31
+S
+#31
+New room~
+No description~
+0 0
+D0
+~
+~
+0 -1 32
+D5
+~
+~
+0 -1 30
+S
+#33
+Test Room #2~
+This is a little test for an area I have in mind.
+Not hard to work out, I hope :P
+~
+0 0
+D1
+~
+~
+0 -1 30
+S
+#37
+The BattleField of Orcs~
+You are suddenly WITHIN the portrait showing the Orc battle!
+All around you, you can hear the blood-curdling cries of women and children,
+as the Orcs rampage through the land, slaying all humans they see.
+~
+4 2
+S
+#0
+#MOBILES
+#36
+taert intel~
+Taert~
+Taert, bulging muscles and all, is here.
+ 
+~
+~
+1 1572864 500 S
+63 1
+-50 0 20 0 0
+! 0 0 0 7 0 0 0
+#32
+A Dark Stalker~
+the Dark Stalker~
+A Dark Stalker stands here, searching for it's prey.
+~
+The Dark Stalker is a product of the Dark Powers.  It's only purpose in life
+is to search out it's victim, and try and kill it.
+It looks dark, powerful, and ready to kill.
+~
+65553 1049090 -900 S
+47 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#30
+zombie~
+the Zombie~
+A rotting Zombie stands before you, smelling slightly.
+~
+The Zombie looks like it has just been animated.  This doesn't stop it
+also looking like a bad road accident.
+~
+3 0 -400 S
+12 0
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#31
+zombie~
+the zombie~
+A hideous zombie stands before you.
+~
+The Zombie looks freshly animated.  Looking closer you almost recognise it.
+~
+16385 0 -400 S
+2 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#33
+wizard oz~
+the wizard of oz~
+The Wizard of Oz is waiting here. 
+~
+You see a long beared wacky mage standing here. His head seems swollen with
+pride and he looks at you as if you were insects for him to experiment on.
+~
+11 1573032 0 S
+68 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#34
+tate sugar intel~
+Tate~
+The sweet-looking Tate is here.
+~
+~
+1 1572864 300 S
+50 1
+-50 22 22 0 0
+! 0 0 0 7 0 0 0
+#35
+lyle intel~
+Lyle~
+Lyle, the second most bravest adventurer in the world, cowers here.
+~
+~
+1 1572864 300 S
+60 1
+-20 40 12 0 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#33
+window magic~
+a magical window~
+A magical window floats before you.  Where does it look?
+~
+7 64 0 1
+0 0 0 0
+200
+L 1
+#32
+token~
+@@gA @@y%d @@aQP @@gtoken@@N~
+A quest token is here.
+~
+16 0 1 1
+0 0 0 0
+5
+L 1
+#31
+fireblade fire blade~
+a FireBlade~
+A FireBlade lies here.
+~
+5 12484 8193 1
+0 0 0 3
+1
+A 13 -75
+A 18 13
+A 19 11
+L 1
+#30
+food bundle cake fruit~
+@@rA @@eF@@yr@@au@@ri@@pt @@rC@@aa@@yk@@pe@@N~
+@@rA @@eF@@yr@@au@@ri@@pt @@rC@@aa@@yk@@pe @@glies here.@@N
+~
+19 64 1 1
+35 0 0 0
+1
+L 1
+#35
+beacon~
+a magical beacon~
+A magical beacon floats gently before you.
+~
+6 64 1 1
+0 0 0 0
+5
+L 1
+#34
+portal~
+a magical portal~
+A large portal silently spins before you.
+~
+7 0 0 1
+0 0 0 0
+200
+L 1
+#36
+picture portrait orc orcs~
+a huge Portrait~
+A huge Portrait hangs here, showing hundreds of Orcs in battle~
+13 0 0 1
+9 0 37 0
+1
+L 1
+#37
+soul potion~
+@@eA Soul Potion@@N~
+@@NA flask filled with an @@devil dark liquid@@N lies here, screaming faintly.
+@@N
+~
+10 536871600 1 1
+70 632 616 618
+1
+L 70
+O objfun_soul_moan~
+#38
+soul figurine~
+@@dthe @@eSoul@@d of @@N%s@@N~
+A small living figurine lies here, groaning in agony.@@N
+~
+28 512 131073 1
+0 0 0 0
+1
+L 70
+O objfun_soul_moan~
+#0
+#$

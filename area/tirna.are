@@ -1,0 +1,1265 @@
+#AREA
+@@RTirna n'Ogth@@N~
+Z 3
+C 103
+K tirnanogth~
+L @@W{@@r ALL @@W}@@N~
+N 71
+I 1 120
+V 9000 9099
+X 0
+F 15
+U You hear the screams of the Dead within your head.~
+O mouse~
+R all mouse~
+W all mouse~
+S Title not shown on area list.
+#ROOMS
+#9099
+Path of Shadows~
+This path is made of the shadows themselves.  The path creeps through the
+forest at a leisurely pace, for the shadows of the path are moving.
+ 
+~
+8 0
+D0
+~
+~
+0 0 9094
+D1
+~
+~
+0 -1 9098
+S
+#9098
+Shadows Abund~
+Totall darkness.  The wind comes rushing in from the east.
+ 
+~
+8 0
+D0
+~
+~
+0 -1 9095
+D1
+~
+~
+0 -1 9097
+D3
+~
+~
+0 -1 9099
+S
+#9097
+Clearing of Blood~
+This clearing is surrounded by the shadows you just came through In the
+middle of this This clearing is a fountain made of living bone!
+ 
+
+ 
+~
+10 0
+D0
+~
+~
+0 -1 9096
+D3
+~
+~
+0 -1 9098
+S
+#9096
+Dense Shadows~
+Shadows, shadows everywhere, as far as you can see.  Actually you can barely
+see at all.  The whistling wind can be heard to the south.
+ 
+~
+8 0
+D2
+~
+~
+0 -1 9097
+D3
+~
+~
+0 -1 9095
+S
+#9095
+Path of Shadows~
+Here the trees part into what appears a small open field.  But the field is of
+the shadows too, and all is still very dark.
+ 
+~
+8 0
+D1
+~
+~
+0 -1 9096
+D2
+~
+~
+0 0 9098
+D3
+~
+~
+0 -1 9094
+S
+#9094
+Shadow Park~
+This is no ordinary park.  There is nothing living here.  Everything is made
+of shadows.  The trees are shadows, the grass is shadows, EVERYTHING!!  A high
+whistling wind comes from the south-east.
+ 
+~
+8 0
+D1
+~
+~
+0 -1 9095
+D2
+~
+~
+0 -1 9099
+S
+#9093
+Gabe's Grocery~
+The grocery sells items that might be needed on an adventure.  There are
+neatly organized shelves in rows in the small building.  The grocer walks
+around helping where he can.
+
+~
+12 0
+S
+#9072
+Izan Drive~
+The drive heads north and south.
+~
+8 0
+D0
+~
+~
+0 -1 9073
+D2
+~
+~
+0 -1 9071
+S
+#9071
+Izan Drive~
+The drive heads north and west~
+8 0
+D0
+~
+~
+0 -1 9072
+D3
+~
+~
+0 -1 9070
+S
+#9070
+Izan Drive~
+The drive heads east and west.~
+8 0
+D1
+~
+~
+0 -1 9071
+D3
+~
+~
+0 -1 9069
+S
+#9069
+Izan Drive~
+The drive heads east and west~
+8 0
+D1
+~
+~
+0 -1 9070
+D3
+~
+~
+0 -1 9068
+S
+#9068
+Izan Drive~
+Izan Drive leaves in all cardinal directions.~
+8 0
+D0
+~
+~
+0 -1 9075
+D1
+~
+~
+0 -1 9069
+D2
+~
+~
+0 -1 9087
+D3
+~
+~
+0 -1 9081
+S
+#9067
+Room of Questing~
+You learn about the quests that are going to be happening here, so just read
+the board.
+ 
+~
+12 0
+S
+#9066
+Clan Information~
+There is information hanging all over the place about the various clans.  Here
+you can find out what the clans are about and what they are up to.  Read
+carefully!
+ 
+~
+12 0
+S
+#9003
+Crypt~
+This is the south end of the square.  To the south is the Unholy Citadel, the
+home of all vampyres.  To the north seems to be some new construction.  The
+square continues to the east and west.
+~
+155785 0
+D2
+~
+~
+0 0 9001
+D4
+~
+~
+0 -1 3054
+S
+#9001
+The Unholy Citadel~
+This is the home of the Vampyres.  Because of limited space and the
+inconveniece it would be, rather than each vampire having its own coffin it
+only has a drawer here in the morgue.  This is the safe place for the vampires
+of the world.  If they get in trouble they can always <recall> back here to be
+safe from harm. To the north is the Crypt area, the undergroud city for the
+undead.  Or you can rest here to heal a little faster.
+NOTE:  Vampyre recall has been changed, please contact an imp to reset your recall.
+~
+147595 0
+D0
+~
+~
+0 -1 9003
+D5
+~
+~
+0 -1 9002
+S
+#9073
+Izan Drive~
+The drive heads north and south~
+8 0
+D0
+~
+~
+0 -1 9074
+D2
+~
+~
+0 -1 9072
+S
+#9074
+Izan Drive~
+This room is totally in ruin.  There are burnt statues and symbols all over
+the place.
+ 
+~
+8 0
+D2
+~
+~
+0 -1 9073
+S
+#9075
+Izan Drive~
+The drive heads north and south.~
+8 0
+D0
+~
+~
+0 -1 9076
+D2
+~
+~
+0 -1 9068
+S
+#9076
+Izan Drive~
+The drive heads north and south.~
+8 0
+D0
+~
+~
+0 -1 9077
+D2
+~
+~
+0 -1 9075
+S
+#9077
+Izan Drive~
+The drive leads off to the west and to the south.~
+8 0
+D2
+~
+~
+0 -1 9076
+D3
+~
+~
+0 -1 9078
+S
+#9078
+Izan Drive~
+The drive leads to the east and the west.~
+8 0
+D1
+~
+~
+0 -1 9077
+D3
+~
+~
+0 -1 9079
+S
+#9079
+Izan Drive~
+The drive heads east and west.~
+8 0
+D1
+~
+~
+0 -1 9078
+D3
+~
+~
+0 -1 9080
+S
+#9080
+Izan Drive~
+This room is large, containing many statues and paintings. There is a large
+black cross like symbol on a red background covering one wall
+
+
+ 
+~
+8 0
+D1
+~
+~
+0 -1 9079
+S
+#9081
+Izan Drive~
+The drive leads of to the east and west.~
+8 0
+D1
+~
+~
+0 -1 9068
+D3
+~
+~
+0 -1 9082
+S
+#9082
+Izan Drive~
+The drive leads east and west.~
+8 0
+D1
+~
+~
+0 -1 9081
+D3
+~
+~
+0 -1 9083
+S
+#9083
+Izan Drive~
+The drive heads to the south and east.~
+8 0
+D1
+~
+~
+0 -1 9082
+D2
+~
+~
+0 -1 9084
+S
+#9084
+Izan Drive~
+The drive goes north and south.~
+8 0
+D0
+~
+~
+0 -1 9083
+D2
+~
+~
+0 -1 9085
+S
+#9085
+Izan Drive~
+The drive leads north and south.
+ 
+~
+8 0
+D0
+~
+~
+0 -1 9084
+D2
+~
+~
+0 -1 9086
+S
+#9086
+Izan Drive~
+This room is totally painted black and red.
+ 
+~
+8 0
+D0
+~
+~
+0 -1 9085
+S
+#9087
+Izan Drive~
+The drive heads north and south.~
+8 0
+D0
+~
+~
+0 -1 9068
+D2
+~
+~
+0 -1 9088
+S
+#9088
+Izan Drive~
+The drive heads north and south~
+8 0
+D0
+~
+~
+0 -1 9087
+D2
+~
+~
+0 -1 9089
+S
+#9089
+Izan Drive~
+The drive heads north and east.~
+8 0
+D0
+~
+~
+0 -1 9088
+D1
+~
+~
+0 -1 9090
+S
+#9090
+Izan Drive~
+The drive heads east and west.~
+8 0
+D1
+~
+~
+0 -1 9091
+D3
+~
+~
+0 -1 9089
+S
+#9091
+Izan Drive~
+The drive heads east and west.~
+8 0
+D1
+~
+~
+0 -1 9092
+D3
+~
+~
+0 -1 9090
+S
+#9092
+Izan Drive~
+This room is decorated in the colors of red and black.
+ 
+~
+8 0
+D3
+~
+~
+0 -1 9091
+S
+#9002
+Under the Crypt~
+You find yourself deep under the crypt as a get away from the hustle of
+vampyre life.  Comfortable coffins are here, plush and soft, just waiting for
+special Vampyres to relax, chat and enjoy themselves.
+~
+147471 0
+D4
+~
+~
+0 -1 9001
+S
+#9004
+@@bSanctuary@@N~
+@@bThis is the home of the wolves.  Its a soft, cozy place that seems
+comfortable and warm.  Werewolves of all shapes and forms recall back to here
+so that they may be safe from any harm and heal if they are wounded.  The
+wolves keep to themselves in this restful place, as the pack leader keeps a
+tight grip upon its family, often protecting them with his or her life.
+ 
+NOTE:  Wolf recall has been changed.  Please contact an imp to change your recall.
+~
+147595 0
+D0
+~
+~
+0 -1 9005
+D5
+~
+~
+0 -1 9006
+S
+#9005
+@@bThe Holy Shrine@@N~
+@@bYou find yourself standing before a large statue of a wolf, its claws drawn
+and its jaws open as it protects 3 small cubs under it.  This was set here to
+remind all wolves to protect each other with thier lives, and to keep the
+secret of wolf existance.  Always remember, the gift of immortality was given
+to you as a reward, treat others of your pack well, and you shall be blessed
+by the Gods.  Keep the secret, my children, for there are those that hunt us
+even now.@@N
+~
+155791 0
+D2
+~
+~
+0 -1 9004
+S
+#9006
+@@bThe Resting Place@@N~
+@@bThis is the place where the wolves of the den may sleep, relax, or just
+chat.  A soft plush bed made of fur is here as a warm fire lights the den in a
+magical glow.  All wolves are at peace here as they are protected from the
+evil that lurks about.@@N
+~
+147471 0
+D4
+~
+~
+0 0 9004
+S
+#0
+#MOBILES
+#9027
+Hurv~
+Hurv the Sorceror~
+Hurv sells you potions and scrolls!
+ 
+~
+~
+3 8360 0 S
+90 1
+-500 500 500 0 0
+! 5 0 0 7 0 0 0
+#9026
+Smith~
+Smith the armorsmith~
+Smith the armorsmith is selling his armor!
+ 
+~
+~
+3 8360 0 S
+91 1
+-500 500 500 0 0
+! 7 0 0 7 0 0 0
+#9025
+Smith~
+Smith the weaponsmith~
+Smith the weaponsmith is standing here!
+ 
+~
+~
+3 8360 0 S
+100 1
+-500 500 500 0 0
+! 7 0 0 7 0 0 0
+#9023
+Gabe~
+Gabe the Grocer~
+Gabe is standing here waiting to sell you something! 
+~
+~
+3 8360 0 S
+89 1
+-500 500 500 0 0
+! 3 0 0 7 14 0 0
+#9022
+Scrub~
+Scrub~
+Scrub is selling drinks.
+~
+~
+3 40 0 S
+97 1
+-500 500 500 0 0
+! 6 0 0 7 14 0 0
+#9021
+Reltih~
+Reltih~
+Reltih is standing here!
+ 
+~
+He is a very insane man who believes that brown hair and brown eyes are
+superior in the human race.  To him, all others must die!
+ 
+~
+35 552 -1000 S
+41 1
+-50 25 25 0 0
+! 3 0 0 7 14358 0 0
+#9020
+Ortsac~
+Ortsac~
+Ortsac is standing here!
+ 
+~
+This man really likes his cigars.
+ 
+~
+35 32 -500 S
+28 1
+-35 22 19 0 0
+! 3 0 0 7 8194 0 0
+#9019
+Notnilc~
+Notnilc~
+Notnilc is standing here!
+ 
+~
+He is the leader of the SU.
+ 
+~
+3 4 500 S
+23 1
+-40 15 10 0 0
+! 3 0 0 7 6146 0 0
+#9018
+Nilats~
+Nilats~
+Nilats is standing here! 
+~
+He used to be some political dude for some extreme cult.
+ 
+~
+35 8 -400 S
+42 1
+-40 20 20 0 0
+! 3 0 0 7 4162 0 0
+#9016
+izan soldier~
+The Izan soldier~
+The Izan soldier patrols the streets!
+ 
+~
+He is a soldier in the cult called Izan.  He stands strong with brown hair and
+brown eyes.
+ 
+~
+65 0 0 S
+20 1
+16 13 15 0 0
+! 3 0 0 7 18 0 0
+#9015
+deathguard guard~
+The deathguard~
+The deathguard is here guarding the gate!
+ 
+~
+This guard is one of the elite of the black watchman.  His sole purpose is go
+guard the gate from unwanted visitors.
+ 
+~
+67 0 0 S
+10 1
+-20 15 18 0 0
+! 3 0 0 7 98 0 0
+#9014
+rodent~
+The rodent~
+The rodent is picking through the garbage!
+ 
+~
+The rodent is a large brown looking mouse.  It is said that the city was
+overrun by them when the god, Mouse, was playing a joke.
+ 
+~
+65 0 0 S
+3 1
+0 0 0 0 0
+! 2 0 0 7 0 0 0
+#9002
+Slipper~
+Slipper the Guildmaster~
+Slipper the Guildmaster is ready to teach you the trade.~
+She is very petit with long blond hair.  Her eyes burn you like fire and seem
+to say stay away.  She carries many daggers that are stained with blood.  You
+know she could kill you with a wink.  There is a rumor that she used to be one
+of Mouse's lovers.
+~
+1539 168 0 S
+76 2
+-100 100 350 0 0
+! 2 0 0 7 31112 0 0
+#9001
+healer~
+@@dThe @@RVampyre @@dSpirit@@N~
+@@dThe vampyre @@Rspirit @@dis here guarding it's @@Rkindred@@N
+~
+Ramgul is the lord of these alley's.  He may not be too tough, but his
+intelligence brings death to his foes.
+~
+357955 92926 0 S
+122 0
+-2500 1000 1000 0 0
+! 1 0 0 7 940046 16777216 16
+S spec_cast_adept~
+#9017
+pkiller hunter~
+@@BA Pkiller Hunter@@g~
+~
+~
+3276829 1633020 0 S
+123 1
+-2000 1000 1000 0 0
+! 3 0 0 7 420346 16384 16
+S spec_executioner~
+#9003
+Fromp~
+Fromp the Guildmaster~
+Fromp will teach you how to battle!~
+Fromp is a huge bald man with bulging muscles. He is totally decked out in
+shining armor and he carries a six-foot sword.  He looks mean but deep down he
+is a kind man.
+~
+1539 168 0 S
+86 1
+-100 100 350 0 0
+! 3 0 0 7 30776 0 0
+#9004
+Kazmar~
+Kazmar the Guildmaster~
+Kazmar trains you in the way of spellcasting.~
+All you see is someone in a dark black robe!
+~
+1539 524456 0 S
+92 1
+-100 100 350 0 0
+! 0 0 0 7 0 0 0
+S spec_cast_bigtime~
+#9005
+Mindwave~
+Mindwave the Guildmaster~
+Mindwave teaches you how to really use your mind.~
+He looks totally normal, except he has a really big head!
+~
+1539 168 0 S
+96 1
+-100 100 350 0 0
+! 4 0 0 7 0 8675328 0
+#9006
+Juzical~
+Juzical the Guildmaster~
+Juzical will help you with you worship.~
+Juzical is a very tanned lady with jet-black hair.  She wears a many colored
+robe showing the differences in the nature of the gods.  She is eager to help
+in any form of worship.
+~
+1539 168 0 S
+102 2
+-100 100 350 0 0
+! 1 0 0 7 4 0 16
+S spec_cast_cleric~
+#9007
+Jim~
+Jim the Banker~
+Jim the Banker wants your money.~
+Jim will keep your money safe in his bank.
+~
+32771 0 0 S
+89 1
+-100 100 100 0 0
+! 2 0 0 7 0 0 0
+#9008
+Brad~
+Brad the Postdude~
+Brad will send and give you mail.~
+He is just the guy who handles the post.
+~
+524291 0 0 S
+86 1
+-100 100 100 0 0
+! 1 0 0 7 0 0 0
+#9009
+Donut~
+Donut the Healer~
+Donut will heal you right up!~
+This guy is a non-stop healing machine.  He never tires, he just keeps casting
+spells at everyone.  Make sure to say thanks!
+~
+4099 0 0 S
+99 1
+-100 100 350 0 0
+! 1 0 0 7 0 0 24
+S spec_cast_adept~
+#9010
+cut cutthroat~
+The cutthroat~
+The cutthroat stands here ready to kill 
+~
+He seems like a normal man, but he has a very evil grin on his face.  Better
+watch your back!
+
+ 
+~
+65 0 0 S
+15 1
+0 0 0 0 0
+! 2 0 0 7 0 0 0
+#9011
+black watchman~
+The Black Watchman~
+The Black Watchman stands here alert!
+~
+This man is one of the policing members of the city.  His job is to patrol and
+make sure no big crimes are happening.
+ 
+~
+65 0 0 S
+18 1
+-10 10 10 0 0
+! 3 0 0 7 0 0 0
+#9012
+mercenary~
+The mercenary~
+The mercenary is here looking for a job.
+ 
+~
+He is a large man with a gruff appearance.  He is in much need of a job though
+
+~
+65 0 0 S
+20 1
+0 0 0 0 0
+! 3 0 0 7 0 0 0
+#9013
+bum~
+bum~
+The bum is hanging around looking for food and money!
+ 
+~
+She is dressed in thin rags, barely covering here frail body.  It looks like
+she has not eaten in days.
+ 
+~
+65 0 0 S
+11 2
+0 0 0 0 0
+! 4 0 0 7 0 0 0
+#9024
+Joe~
+Joe the Baker~
+Joe the baker sells his goods! 
+~
+~
+3 8360 0 S
+90 1
+-500 500 500 0 0
+! 4 0 0 7 0 0 0
+#9000
+guardian~
+@@dThe @@BGuardian@@N of the @@RCrypt@@N~
+@@dThe @@BGuardian@@N of the @@RCrypt.
+~
+~
+2248831 59640 -1000 S
+138 1
+-2500 1000 1000 0 0
+! 0 0 0 7 958592 17334468 32
+#9028
+wolven ~
+@@bA Large Wolf@@N~
+@@bA large Statue of a Wolf is here, protecting the den@@N
+~
+A large wolf stands before you, making sure that justice is done when needed.~
+2502751 59640 -1000 S
+144 1
+-2500 1000 1000 0 0
+! 0 0 0 7 958592 17334468 32
+#9029
+cub~
+@@bA Wolven Cub@@N~
+@@bA statue of a Wolven Cub is here, hiding behind the powerful leader.@@N
+~
+A small wolven cub with large claws and teeth are here as it hides behind its leader.
+~
+2232415 59640 -1000 S
+142 1
+-2500 1000 1000 0 0
+! 0 0 0 7 958592 17334468 32
+#9030
+wolven~
+@@bA Wolven Spirit@@N~
+@@bA Wolven Spirit is here to heal you.@@N
+~
+Ramgul is the lord of these alley's.  He may not be too tough, but his
+intelligence brings death to his foes.
+~
+341571 92926 0 S
+117 0
+-2500 1000 1000 0 0
+! 0 0 0 7 940046 16777216 16
+S spec_cast_adept~
+#0
+#OBJECTS
+#9070
+hook~
+@@bGrappling@@N @@dHook@@N~
+~
+9 0 2049 1
+0 0 0 0
+1
+L 81
+#9014
+board~
+the Vampire board of wisdom~
+The Vampire Board of Wisdom~
+27 0 0 1
+150 0 0 9014
+1
+L 1
+#9017
+stake~
+stake~
+Stake
+~
+8 0 16385 1
+0 0 0 0
+2
+L 85
+#9000
+Drink~
+@@gThe Fountain of @@eBloodlust@@g.~
+~
+25 1 0 1
+13 0 0 0
+1
+L 1
+#9016
+fountain~
+fountain of Living Bone~
+A fountain of living bone is constructed here with a deep crimson fluid flowing through the many crevices.
+ 
+~
+25 0 0 1
+13 0 0 0
+1
+L 1
+#9015
+portal door~
+the door portal~
+The portal~
+7 0 0 1
+0 0 0 0
+1
+L 1
+#9007
+fountain~
+the fountain of death.~
+The fountain nourishes you so that you will be healthy when you are dead!~
+25 0 0 1
+11 0 0 0
+1
+L 1
+#9001
+helm~
+the Deathguard's Helm~
+The helm is totally black with a bright red flame on the top!
+ 
+~
+9 0 17 1
+0 0 0 0
+1
+A 19 1
+L 1
+#9002
+boots~
+the Deathguard's Boots~
+The boots are jet black with spiked toes.~
+9 0 65 257
+0 0 0 0
+1
+A 18 2
+A 19 2
+A 17 -25
+L 20
+#9003
+sword~
+the Deathguard's Sword~
+The sword is a shiny black.~
+5 0 8193 1
+0 0 0 3
+1
+A 19 1
+A 18 1
+L 1
+#9004
+sleeves~
+watchman's Sleeves~
+The sleeves are black with a painted eye on them.~
+9 0 257 1
+0 0 0 0
+1
+L 1
+#9005
+leggings~
+watchman's leggings~
+The leggings are a crimson red with a skeleton painted down the front. 
+~
+9 0 33 1
+0 0 0 0
+1
+A 19 1
+L 1
+#9006
+ring~
+watchman's ring~
+The ring is made of a rought twine.~
+9 0 3 1
+0 0 0 1
+1
+A 18 1
+L 1
+#9008
+popper~
+popper~
+The slim Popper dagger is lying here!~
+5 0 8193 1
+0 0 0 11
+1
+A 19 3
+A 18 3
+L 20
+#9009
+banner~
+cross-like Symboled Banner~
+A banner lays here with a red cross like symbol on it!~
+1 0 1 1
+0 0 0 0
+1
+A 19 1
+L 1
+#9010
+gauntlets~
+gauntlets of SU~
+A pair of multicolored gauntlets are waiting to be worn.~
+9 0 129 1
+0 0 0 0
+1
+A 19 1
+A 18 -1
+L 1
+#9011
+bracer~
+brAcEr~
+A bRaCeR is on the ground.~
+9 0 4097 1
+0 0 0 0
+1
+A 19 1
+L 1
+#9012
+ring~
+ring of Ruling~
+A charming looking ring is here.~
+9 0 3 1
+0 0 0 0
+1
+A 18 1
+A 13 5
+A 17 -3
+L 1
+#9013
+board~
+a Large Board~
+The Vampire Board of wisdom~
+27 4 0 1
+150 0 0 9013
+1
+L 1
+#9025
+Golden Spatula~
+a Golden Spatula~
+This shining Golden Spatula is a wedding gift from Jaguar!~
+13 0 1 1
+0 0 0 0
+1
+L 1
+#9018
+clutchie~
+an ancient piece of parchment~
+A piece of parchment, with words that you do not understand.
+~
+11 -805306368 131073 1
+3 9013 0 0
+1
+L 60
+#9019
+board~
+~
+The darkened board, red glow casting enough to barely see the words of the written.
+~
+27 0 0 1
+12 80 80 9019
+1
+L 1
+#9020
+coffin~
+@@WA Comfortable Coffin@@N~
+@@WA Comfortable Coffin is here, waiting for you to sleep.@@N~
+12 0 0 1
+20 0 0 0
+16959
+L 1
+#9021
+fountain~
+@@yThe Fountain of All Knowledge@@N~
+@@yThe Fountain of All Knowledge is here, gushing streams of words.@@N
+~
+25 0 0 1
+5 0 0 0
+1
+L 1
+#9022
+bed fur~
+@@WA Soft Bed of Fur@@N~
+@@WA Soft Bed of Fur is here, waiting for you to sink in.@@N
+~
+12 0 0 1
+20 0 0 0
+16959
+E
+the~
+fur made of this bed is given lovingly by the members of the pack in hopes that it shall be used well.  Rest my children, for the night shall be forever ours.~
+L 1
+#0
+#SHOPS
+9027 2 3 4 10 0 130 40 0 23
+9026 9 0 0 0 0 130 40 0 23
+9025 5 6 7 0 0 130 40 0 23
+9022 17 0 0 0 0 130 40 0 23
+9024 19 0 0 0 0 130 40 0 23
+9023 1 0 0 0 0 130 40 0 23
+0
+#RESETS
+M 0 9016 10 9068 (null)
+
+M 0 9016 10 9076 (null)
+
+M 0 9016 10 9078 (null)
+
+M 0 9016 10 9082 (null)
+
+M 0 9016 10 9084 (null)
+
+M 0 9016 10 9088 (null)
+
+M 0 9016 10 9090 (null)
+
+M 0 9016 10 9070 (null)
+
+M 0 9016 10 9072 (null)
+
+M 0 9021 1 9080 (null)
+
+E 0 9009 0 0 (null)
+
+M 0 9019 1 9074 (null)
+
+E 0 9010 0 9 (null)
+
+M 0 9018 1 9092 (null)
+
+E 0 9011 0 14 (null)
+
+M 0 9020 1 9086 (null)
+
+E 0 9012 0 1 (null)
+
+M 0 9023 1 9093 (null)
+
+G 0 3138 0 (null)
+
+G 0 3031 0 (null)
+
+G 0 3030 0 (null)
+
+G 0 3032 0 (null)
+
+O 0 9016 0 9097 (null)
+
+M 0 9000 1 9003 (null)
+
+M 0 9000 2 9003 (null)
+
+M 0 9000 3 9003 (null)
+
+O 0 9000 0 9001 (null)
+
+M 0 9001 1 9001 (null)
+
+O 0 9020 1 9002 (null)
+
+M 0 9028 1 9005 (null)
+
+M 0 9029 3 9005 (null)
+
+M 0 9029 3 9005 (null)
+
+M 0 9029 3 9005 (null)
+
+M 0 9030 1 9004 (null)
+
+O 0 9021 0 9004 (null)
+
+O 0 9022 0 9006 (null)
+
+S
+#$

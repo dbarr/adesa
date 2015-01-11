@@ -1,0 +1,2364 @@
+#AREA
+@@aA@@cd@@de@@gs@@Wa's @@aA@@cr@@de@@gn@@Wa@@N~
+Z 3
+C 59
+K soekindergarden~
+L @@W{@@r 1  5@@W}@@N~
+N 22
+I 1 5
+V 3700 3779
+X 0
+F 5
+U @@aA@@cd@@de@@gs@@Wa @@dc@@gh@@ce@@ae@@dr@@gs @@dy@@go@@cu @@ao@@gn@@W!@@c!@@N~
+O hatchet~
+R hatchet aliaser que~
+W hatchet aliaser  que~
+T You can teleport into here
+M No bad room spells allowed.
+#ROOMS
+#3700
+@@d*@@c*@@a*@@g*@@aA@@cd@@de@@gs@@Wa@@g*@@a*@@c*@@d*@@N~
+@@d*@@c*@@a*@@g*@@dWelcome to our realm@@g*@@a*@@c*@@d*@@c We hope that you enjoy your stay@@a.@@c To go
+through @@WM@@gud @@WS@@gchool@@a,@@c please type @@lnorth@@a.@@c If you have been through
+the school and want to go to the @@Warena@@a,@@c type @@Wopen south@@c,@@c then
+@@Wsouth@@c or the @@rtraining camp@@c is to the @@rwest@@a.@@c If you have questions@@a,@@c
+please feel free to ask an imm or another player@@a...@@cand don@@a'@@ct forget 
+to read the room descriptions in mud school as this will help you 
+learn the commands of the game@@a.@@N
+~
+17436 0
+D0
+You see the doorway into the Mud School Building.
+~
+~
+0 0 3757
+D2
+You see the one way door into the Arena of Mud School.
+~
+~
+1 -1 3744
+D3
+~
+~
+0 -1 3780
+S
+#3701
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are west and south.  A small plaque is on the
+wall.
+~
+12 0
+D3
+You see a path into another room.
+~
+~
+0 -1 3702
+E
+plaque~
+This zone (Mud School) is created by Hatchet for any Merc Mud.
+Copyright 1992, 1993.
+~
+E
+sign~
+Equipment check time!  Type 'EQUIPMENT' to see your current equipment.  Right
+now, you have just a vest, a shield, and a weapon.  As you go through Mud
+School you will acquire a complete set of equipment.
+
+To pick up items on the ground as you see them, type 'GET item'.
+To wear a piece of armor, type 'WEAR item'.
+To hold a light source, type 'HOLD item'.
+To wield a weapon, type 'WIELD weapon'.
+To wear, hold, and wield everything you have, type 'WEAR ALL'.
+To stop using a piece of equipment, type 'REMOVE item'.
+Finally, to see the items in your inventory, type 'INVENTORY'.
+
+When you are ready to continue, go west.
+~
+S
+#3702
+The Center Room~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead in ALL directions.
+~
+12 0
+D0
+You see the room north that will lead you to the next section.
+~
+~
+0 0 3703
+D1
+You see a room.
+~
+~
+0 0 3701
+D2
+You see a room.
+~
+~
+0 0 3705
+D3
+You see a room.
+~
+~
+0 0 3704
+D4
+You see a room.
+~
+~
+0 0 3708
+D5
+You see a room.
+~
+~
+0 0 3707
+E
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.
+
+To see the obvious exits in a room, type 'EXITS'.
+
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.
+
+Try going into each direction from here.  When you are done, go NORTH.
+~
+S
+#3703
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead north and south.
+~
+12 0
+D0
+You see the next station ahead.
+~
+~
+0 -1 3709
+D2
+You see the central room.
+~
+~
+0 0 3702
+E
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+S
+#3704
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is east.
+~
+12 0
+D1
+You see the central room.
+~
+~
+0 0 3702
+E
+sign~
+Just go east to the central room.
+~
+S
+#3705
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+12 0
+D0
+You see the central room.
+~
+~
+0 0 3702
+E
+sign~
+Just go north to the central room.
+~
+S
+#3707
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+12 0
+D4
+You see the central room.
+~
+~
+0 0 3702
+E
+sign~
+Just go up to the central room.
+~
+S
+#3708
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+12 0
+D5
+You see the central room.
+~
+~
+0 0 3702
+E
+sign~
+Just go down to the central room.
+~
+S
+#3709
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+~
+12 0
+D3
+You see the next station of Mud School.
+~
+~
+0 -1 3711
+D5
+You see a cage.
+~
+~
+0 0 3710
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+S
+#3710
+The Blob Cage~
+You are in a smelly cage.  Strangely, the walls are still clean!
+You see a sign here.  The only exit is up.
+~
+8 0
+D4
+You see a safe room up.
+~
+~
+0 0 3709
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+S
+#3711
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.
+~
+12 0
+D1
+You see the next station of Mud School.
+~
+~
+0 0 3709
+D5
+You see the combat hall.
+~
+~
+0 0 3712
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+S
+#3712
+The Cage Room~
+You are in the cage room.  All around are 4 cages.  Light fluoresces off the
+ceiling in soft white tones.  Of course, there is a big sign on the wall.
+Exits lead into the cardinal directions plus down.
+~
+12 0
+D0
+You see the aggressive monster inside!
+~
+~
+0 -1 3713
+D1
+You see the unmodified monster inside!
+~
+~
+0 -1 3716
+D2
+You see the wimpy monster inside!
+~
+~
+0 -1 3715
+D3
+You see the aggressive wimpy monster inside!
+~
+~
+0 -1 3714
+E
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+S
+#3713
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is south.
+~
+8 0
+D2
+You see the Cage Room.
+~
+~
+0 -1 3712
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+S
+#3714
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is east.
+~
+8 0
+D1
+You see the Cage Room.
+~
+~
+0 -1 3712
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+S
+#3715
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is north.
+~
+8 0
+D0
+You see the Cage Room.
+~
+~
+0 -1 3712
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+S
+#3716
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is west.
+~
+8 0
+D3
+You see the Cage Room.
+~
+~
+0 -1 3712
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+S
+#3717
+@@WA @@WR@@goom @@Wi@@gn @@WM@@gud @@WS@@gchool@@N~
+@@WY@@gou are in a square @@Wwhite @@groom@@W.@@g  The walls are all blank@@W,@@g with no windows@@W.@@N
+@@gLight fluoresces off the ceiling in soft white tones@@W.@@g  Of course@@W,@@g there is a@@N
+@@gsign on the wall@@W.@@g  Find your own exit here@@W.@@N
+~
+12 0
+D0
+~
+~
+0 0 20125
+D1
+You see the next station of Mud School.
+~
+door~
+1 -1 3722
+D2
+You see the Shop.
+~
+~
+0 0 3718
+E
+sign~
+By now, you must be hungry and thirsty.  Time to buy groceries!
+To the south is a store.  Inside the store, you can use these commands:
+
+    BUY    Buy an item
+    LIST   List what is for sale
+
+After buying some food and drink, you can 'EAT' and 'DRINK' it.
+
+After that, find the next exit yourself.
+~
+S
+#3718
+@@WT@@ghe @@WS@@gtore @@Wi@@gn @@WM@@gud @@WS@@gchool@@N~
+@@WY@@gou are in a cramped room@@W.@@g  Stacked neatly on shelves everywhere are items@@N
+@@gand packages@@W.@@g  Light fluoresces off the ceiling in soft @@Wwhite@@g tones@@W.@@g  Of@@N
+@@gcourse@@W,@@g there is a sign on the wall@@W.@@g  The only exit is north@@W.@@N
+~
+8 0
+D0
+You see the only exit out of here.
+~
+~
+0 0 3717
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+	   that item.
+   Sell  - Sell that item to the storekeeper.
+~
+S
+#3719
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are north and west, with a door to the east.
+~
+12 0
+D1
+You see the next station of Mud School.
+~
+door~
+33 3714 3721
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK EAST, OPEN EAST,
+and continue east.
+~
+S
+#3720
+The Darkened Room~
+This room was purposefully darkened so that you would need to hold on to a
+light source to go through.  The walls are, of course, blank, and white.
+The only exit is south.
+~
+13 0
+S
+#3721
+The End of Mud School!~
+This is a very bright room, with a marble pedestal in the center.  Behind
+the pedestal stands a person cloaked in Silver.  Tapestries flow from every
+wall, and you feel very happy to be here right now.  There is a big sign here.
+The only exit is on the other side of the gate north of you.
+~
+8 0
+D0
+You see the Arena ahead.
+~
+gate~
+1 -1 3722
+E
+sign~
+You have graduated from Mud School!  Get your diploma.  Go 'NORTH' from here
+to visit our arena.  There are plenty of low-level monsters, but DON'T attack
+other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+After you raise to level two, you can 'SAVE' your character.  Your character
+will be automatically SAVE'd every few minutes.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+S
+#3722
+@@dSouth wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3729
+D1
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3723
+@@dSouth wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3728
+D1
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3724
+@@dSouthwest corner of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3727
+D1
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3725
+@@dSouth wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3730
+D1
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3722
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3726
+@@dSoutheast corner of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange. @@dA small archway has been
+built in the eastern wall.@@N
+~
+8 0
+D0
+~
+~
+0 0 3731
+D1
+~
+~
+0 -1 3747
+D3
+~
+~
+0 0 3725
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3727
+@@dWest wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3732
+D1
+~
+~
+0 0 3728
+D2
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3728
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3733
+D1
+~
+~
+0 0 3729
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3729
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3734
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3728
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3730
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3735
+D1
+~
+~
+0 0 3731
+D2
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3729
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3731
+@@dEast wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3730
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3732
+@@dWest wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3737
+D1
+~
+~
+0 0 3733
+D2
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3733
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3738
+D1
+~
+~
+0 0 3734
+D2
+~
+~
+0 0 3728
+D3
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3734
+@@dThe center of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N @@d There is a grate on the
+floor covering an opening to the dungeon below. @@WIt can be opened if you
+wish to enter.@@N
+~
+12 0
+D0
+~
+~
+0 0 3739
+D1
+~
+~
+0 0 3735
+D2
+~
+~
+0 0 3729
+D3
+~
+~
+0 0 3733
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+D5
+You see a dark murky dungeon below.
+~
+grate~
+1 -1 3748
+E
+sign big~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+S
+#3735
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3740
+D1
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3730
+D3
+~
+~
+0 0 3734
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3736
+@@dEast wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3735
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3737
+@@dWest wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3742
+D1
+~
+~
+0 0 3738
+D2
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3738
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3743
+D1
+~
+~
+0 0 3739
+D2
+~
+~
+0 0 3733
+D3
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3739
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3744
+D1
+~
+~
+0 0 3740
+D2
+~
+~
+0 0 3734
+D3
+~
+~
+0 0 3738
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3740
+@@dThe arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3745
+D1
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3735
+D3
+~
+~
+0 0 3739
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3741
+@@dEast wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D0
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3736
+D3
+~
+~
+0 0 3740
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3742
+@@dNorthwest corner of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D1
+~
+~
+0 0 3743
+D2
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3743
+@@dNorth wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@dthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D1
+~
+~
+0 0 3744
+D2
+~
+~
+0 0 3738
+D3
+~
+~
+0 0 3742
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3744
+@@dNorth wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@Wthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D1
+~
+~
+0 0 3745
+D2
+~
+~
+0 0 3739
+D3
+~
+~
+0 0 3743
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3745
+@@dNorth wall of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@Wthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D1
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3744
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3746
+@@dNortheast corner of the arena@@N~
+@@dYou are in the @@Warena. At least it used to be the arena. @@dIt's been
+painted @@Wthis horrible grey color. @@dIf you choose to stay, you may @@Wbe
+assimilated or turned into something strange.@@N
+~
+8 0
+D2
+~
+~
+0 0 3741
+D3
+~
+~
+0 0 3745
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3748
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+ have been relegated to @@dthe dungeon until they can find their minds.@@N    @@dOn the
+ceiling is the grate where you entered.@@N  
+~
+8 0
+D0
+You see the north wall.
+~
+~
+0 0 3750
+D1
+You see the east wall.
+~
+~
+0 0 3753
+D2
+You see the south wall.
+~
+~
+0 0 3755
+D3
+You see the west wall.
+~
+~
+0 0 3752
+D4
+You see safety!
+~
+grate~
+1 -1 3734
+S
+#3749
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D1
+You see the north wall.
+~
+~
+0 0 3750
+D2
+You see the south wall.
+~
+~
+0 0 3752
+S
+#3750
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D1
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D3
+You see the north west corner.
+~
+~
+0 0 3749
+S
+#3751
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D2
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the north wall.
+~
+~
+0 0 3750
+S
+#3752
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D0
+You see the north west corner.
+~
+~
+0 0 3749
+D1
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D2
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3753
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D0
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the center of the dungeon.
+~
+~
+0 0 3748
+S
+#3754
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D0
+You see the north wall.
+~
+~
+0 0 3752
+D1
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3755
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D0
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D1
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3756
+@@dThe Dungeon@@N~
+@@dThings have gone decidedly wrong for the Borg. @@WIt seems that @@yP@@doo@@yh@@W and friends 
+have been relegated to @@dthe dungeon until they can find their minds.@@N  
+~
+9 0
+D0
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3757
+@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WM@@gud @@WS@@gchool@@N~
+@@cYou are in a room in Mud School in the @@aA@@cd@@de@@gs@@Wa@@c realm@@a.@@N
+@@cDark @@Rpatches of blood@@c from ancient adventures are scribbled with@@N
+@@cgrafitti upon the wall.  To the @@pwest@@c is the @@WTraining Room@@c and to@@N
+@@cthe @@peast@@c is our @@WPractice Room@@a.  @@pNorth@@c of you is the next@@N
+@@cStation of Mud School@@a.@@c  There is a sign on the wall @@a(@@ctype '@@yLOOK SIGN@@c' to@@N
+@@cread it@@a).@@N
+~
+16412 1
+D0
+You see the next station of Mud School.
+~
+~
+0 0 20100
+D1
+You see Hatchet's Guild Room.  Go there to practice your skills.
+~
+~
+0 0 3759
+D2
+You see the entrance to Mud School.
+~
+~
+0 0 3700
+D3
+You see Furey's Training Room.  Go there to train your attributes.
+~
+~
+0 0 3758
+E
+sign~
+To find out your attributes, type 'score'.  You can improve your attributes
+in Furey's Training Room to the west.  You can practice your skills and spells
+in Hatchet's Guild Room to the east.  You can continue through mud school by
+going north.
+
+If you are a new character, you should go 'WEST' from here, train your
+abilities, and then come back here and go 'NORTH'.
+~
+E
+~
+~
+S
+#3758
+@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WT@@graining @@WR@@goom@@N~
+@@WY@@gou are in @@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WT@@graining @@WR@@goom@@W.  @@gAround you are all sorts
+of physical and mental training tools.  The whole room is filled with magic@@W,
+@@gholiness@@W, @@gand sweat@@W.  @@gThere is an old@@W,@@g decrepit sign on the wall@@W.@@N
+~
+17436 1
+D1
+You see the room you came from, and the room you should go to.
+~
+~
+0 0 3757
+E
+sign~
+Welcome to Furey's Training Room.  Here you can train your attributes.  To 
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+S
+#3759
+@@aA@@cd@@de@@gs@@Wa@@d'@@cs @@WP@@gractice @@WR@@goom@@N~
+@@WY@@gou are in a room filled with weapons@@W,@@g books@@W,@@g and many combat dummies@@W,@@g some@@N
+@@gcut and stabbed many times@@W,@@g others burnt to a crisp@@W.@@g  The room is filled with@@N
+@@gsweat and an aura of magic@@W.@@g  There is a crumpled sign on the wall@@W.@@N
+~
+17436 1
+D3
+You see the room you came from and the room you should go to.
+~
+~
+0 0 3757
+E
+sign~
+Welcome to Hatchet's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+S
+#3760
+A Safe Room~
+@@dYou are on a safe @@glooking platform, built into@@d a large cloud floating peacefully
+@@dabove the @@aA@@cd@@de@@gs@@Wa @@aA@@cr@@de@@gn@@Wa@@d.@@g  Below you, you can just make out @@dwhat seems to be
+@@dan arena, while above you a strange @@gportal glows brightly.
+ 
+@@dType enter portal to go to the @@dD@@ea@@yr@@dt @@dB@@eo@@ya@@Wr@@dd@@N.
+~
+1052 0
+D4
+~
+^portal~
+1 -1 1175
+S
+#3747
+@@dThe Gladiator's Room@@N~
+@@dYou are standing in a @@Wsmall square room painted the same @@dboring grey. The
+walls are @@Wlined with benches and the benches are @@dfilled with gladiators
+waiting for their @@Wturn to fight in the arena to the west @@dor be assimilated by
+the Borg to the east.@@N
+~
+0 0
+D1
+~
+~
+0 -1 3761
+D3
+~
+~
+0 -1 3726
+S
+#3761
+@@gWhere @@Wdid they @@dcome from?@@N~
+@@dPrepare @@Wto be @@gassimilated.  
+~
+0 0
+D0
+~
+~
+0 -1 3762
+D3
+~
+~
+0 -1 3747
+S
+#3762
+@@dT@@Wh@@de B@@Wo@@dr@@Wg@@N~
+@@dThe mind of the collective is very strong here. @@WThey seem to be deciding where
+to start their assimilation.@@N  
+~
+0 0
+D0
+~
+~
+0 -1 3763
+D2
+~
+~
+0 -1 3761
+S
+#3763
+@@dT@@Wh@@de B@@Wo@@dr@@Wg@@N~
+@@dThe mind of the collective is very strong here. @@WThey seem to be deciding where
+to start their assimilation.@@N  
+~
+0 0
+D1
+~
+~
+0 -1 3764
+D2
+~
+~
+0 -1 3762
+S
+#3764
+@@dT@@Wh@@de B@@Wo@@dr@@Wg@@N~
+@@dThe mind of the collective is very strong here. @@WThey seem to be deciding where
+to start their assimilation.@@N  
+~
+0 0
+D1
+~
+~
+0 -1 3765
+D3
+~
+~
+0 -1 3763
+S
+#3765
+@@dT@@Wh@@de B@@Wo@@dr@@Wg@@N~
+@@dThe mind of the collective is very strong here. @@WThey seem to be deciding where
+to start their assimilation.@@N  
+~
+0 0
+D0
+~
+~
+0 -1 3766
+D3
+~
+~
+0 -1 3764
+S
+#3766
+@@dT@@Wh@@de B@@Wo@@dr@@Wg@@N~
+@@dThe mind of the collective is very strong here. @@WThey seem to be deciding where
+to start their assimilation.@@N  
+~
+0 0
+D1
+~
+~
+0 -1 3767
+D2
+~
+~
+0 -1 3765
+S
+#3767
+@@dT@@Wh@@de B@@Wo@@dr@@Wg@@N~
+@@dThe Borg have begun their assimilation with the street to the east. @@WIt's 
+probably the @@dBiggest Mistake @@Wthey have ever made. There is a 'sign' here you should 
+read.@@N  
+~
+4 0
+D1
+~
+~
+0 -1 200
+D3
+~
+~
+0 -1 3766
+E
+sign~
+Do not enter unless you are level 10 or above.  
+~
+S
+#0
+#MOBILES
+#3708
+Abu~
+Abu~
+The sly little Abu is here, looking for something to kill 
+~
+~
+4194305 1048576 400 S
+7 1
+-30 0 0 0 0
+! 0 0 0 7 0 0 0
+#3700
+acolyte cleric~
+Aliaser's power~
+An fraction of Aliaser's power floats here.
+~
+He is big and bad.  Don't mess with him.
+~
+65 136 1000 S
+73 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+S spec_cast_adept~
+#3701
+pool goo~
+a pool of goo~
+A pool of goo is sitting here.
+~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+67 8 0 S
+4 0
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3702
+blackbird~
+a blackbird~
+A blackbird chirps merrily here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+3 0 0 S
+10 0
+50 0 0 0 0
+! 0 0 0 7 0 0 0
+#3703
+sparrow~
+a sparrow~
+A sparrow grubs down on a worm here.
+~
+He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+131 0 0 S
+9 0
+60 0 0 0 0
+! 0 0 0 7 0 0 0
+#3704
+magpie~
+a magpie~
+A magpie flutters around here aimlessly.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+35 0 0 S
+11 0
+50 0 0 0 0
+! 0 0 0 7 0 0 0
+#3705
+jay~
+the jay~
+A jay stands here looking weak but majestic.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+163 0 0 S
+4 0
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3706
+eagle~
+the eagle~
+The eagle perches here, chewing on a bit of flesh.
+~
+He looks mean, and you just might have a small problem killing him, but he
+looks like a great prize!!!
+~
+3 512 0 S
+4 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3707
+adept cleric~
+the adept of Kahn~
+An adept of Overlord Kahn is here, contemplating your progress.
+~
+He is big and bad.  Don't mess with him.
+~
+67 136 1000 S
+77 1
+-500 500 500 0 0
+! 0 0 0 7 17416 0 0
+S spec_cast_adept~
+#3709
+gekko~
+@@ythe @@cge@@ykk@@co@@N~
+@@yA @@cge@@ykk@@co @@yis trying to slither under a rock.@@N
+~
+The gekko smiles at you, completely harmless!
+~
+65 0 0 S
+15 0
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3710
+newt~
+@@gt@@ehe @@gn@@eewt@@N~
+@@gA @@en@@eewt @@gis @@elooking @@gfor @@esomething @@gto @@edrink.@@N
+~
+It smiles at you, and tries to eat your leg.
+~
+65 0 0 S
+13 2
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3711
+badger~
+@@cA @@bbadger@@N~
+@@cA @@bbadger is rooting around for some food.@@N
+~
+It grunts at you.
+~
+65 0 0 S
+14 0
+0 2 0 0 0
+! 0 0 0 7 0 0 0
+#3712
+borg~
+@@dA B@@Wo@@dr@@Wg@@N~
+@@dA B@@Wo@@dr@@Wg@@N
+~
+~
+65 0 0 S
+13 0
+0 2 2 0 0
+! 0 0 0 7 4096 0 0
+>entry_prog 50~
+say @@dYou will@@W be assimilated.@@N
+~
+|
+#3713
+slug~
+@@ct@@ghe @@cs@@gquishy @@cs@@glug@@N~
+@@cA s@@Wquishy @@cs@@Wlug is sliding under a rock.@@N
+~
+You don't see much but slime about it.
+~
+65 0 0 S
+8 0
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3714
+eeyore donkey~
+@@dEe@@eyo@@dre the do@@enk@@dey@@N~
+@@dEe@@eyo@@dre the do@@enk@@dey is in a _seriously_ bad mood.@@N
+~
+It looks mean.  You'd better run.
+~
+65 0 0 S
+6 1
+-10 8 8 0 0
+! 0 0 0 7 0 0 0
+#3715
+pooh bear~
+@@dT@@dhe @@yP@@doo@@yh B@@dea@@yr@@N~
+@@dT@@dhe @@yP@@doo@@yh B@@dea@@yr is REALLY hungry.@@N
+~
+Could you find some honey for this poor bear?
+~
+65 40 0 S
+5 0
+-10 10 10 0 0
+! 0 0 0 7 2048 0 0
+>give_prog goo~
+if ispc($n)
+say Oh, how nice of you!
+mpoload 3721
+give smackrel $n
+eat goo
+endif
+~
+|
+#3716
+Piglet~
+@@pPi@@dgle@@pt@@N~
+@@pPi@@dgle@@pt @@bbounces through, holding on to a balloon.@@N
+~
+~
+65 0 0 S
+7 0
+-10 10 10 0 0
+! 0 0 0 7 0 0 0
+#3717
+adept cleric~
+the adept of Frag~
+An adept of Frag is here, grinning and selling you things.
+~
+He is big and bad.  Don't mess with him.
+~
+67 136 1000 S
+73 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3718
+giving tree adept train trainer~
+@@WThe @@yEternity Dragon@@N~
+@@WAn @@yEternal Dragon@@W with kind @@leyes@@W waits@@W patiently to help you.@@N
+~
+He is big and bad.  Don't mess with him.
+~
+1603 136 1000 S
+109 1
+-3000 900 900 0 0
+! 0 0 0 7 0 0 128
+#3719
+crystal dragon priest~
+@@gCrystal Dragon@@N~
+@@lA @@gCrystal Dragon @@lwith a kind @@gsmile@@l waits to help you.@@N
+~
+He is big and bad.  Don't mess with him.
+~
+1050179 136 1000 S
+114 1
+-500 500 500 0 0
+! 0 0 0 7 26504 0 0
+#3720
+sage~
+a wise old fool~
+A wise old sage sits here, looking weak and feeble.
+~
+This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+3 512 0 S
+13 0
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#3721
+The Newbie Squire~
+A Newbie Squire~
+A newbie Squire stands here, dropping equipment all over the place.
+ 
+~
+~
+3 553 0 S
+3 1
+0 0 0 0 0
+! 1 0 0 7 0 0 0
+#3722
+christopher robin~
+C@@bhristopher @@NR@@bobin@@N~
+@@NC@@bhristopher @@NR@@bobin knows where to find honey.@@N
+~
+Cris seems to be carrying some of the gooey stuff at the moment.
+~
+1 40 0 S
+9 1
+-10 15 10 0 0
+! 0 0 0 7 6144 0 0
+>speech_prog honey~
+if ispc($n)
+say Here's some honey for you.
+mpoload 3720 5
+give goo $n
+endif
+~
+|
+#3723
+gladiator~
+@@Wthe g@@cl@@Wad@@cia@@Wt@@cor@@N~
+@@WA g@@cl@@Wad@@cia@@Wt@@cor grins at you.@@N
+~
+~
+7 0 0 S
+7 1
+-50 10 10 0 0
+! 0 0 0 7 6272 0 0
+#3724
+gladiator~
+@@Wthe g@@cl@@Wad@@cia@@Wt@@cor@@N~
+@@WA g@@cl@@Wad@@cia@@Wt@@cor grins at you.@@N
+~
+~
+7 0 0 S
+9 1
+-50 10 10 0 0
+! 0 0 0 7 6272 0 0
+#3725
+rat~
+@@dA @@pr@@da@@pt@@N~
+@@dA @@pr@@da@@pt@@d nibbles on a piece of bread.@@N
+~
+~
+1 0 0 S
+8 1
+-60 11 7 0 0
+! 0 0 0 7 4096 0 0
+#3726
+borg~
+@@dA B@@Wo@@dr@@Wg@@N~
+@@dA B@@Wo@@dr@@Wg@@N
+~
+His fur might be worth money.
+~
+65 0 0 S
+9 0
+-50 10 10 0 0
+! 0 0 0 7 4096 0 0
+#3727
+borg~
+@@dA B@@Wo@@dr@@Wg@@N~
+@@dA B@@Wo@@dr@@Wg@@N
+~
+His fur might be worth money.
+~
+67 0 0 S
+8 0
+-50 10 10 0 0
+! 0 0 0 7 4096 0 0
+#0
+#OBJECTS
+#3717
+ddagger~
+a jewelled dagger~
+~
+5 0 8193 1
+0 0 0 11
+1
+A 18 20
+A 19 10
+A 12 100
+A 13 100
+L 1
+#3700
+mace~
+a sub issue mace~
+You see a sub issue mace here.~
+5 64 8193 1
+0 2 3 7
+1
+A 18 1
+A 19 1
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3701
+dagger~
+a sub issue dagger~
+You see a sub issue dagger that has been dropped here.
+~
+5 64 8193 1
+0 2 3 11
+1
+A 17 -5
+A 18 1
+A 19 1
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3702
+sword~
+a sub issue sword~
+You see a sub issue sword here.~
+5 64 8193 1
+0 2 3 3
+1
+A 18 1
+A 19 1
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3703
+vest~
+a sub issue vest~
+You see a sub issue vest that has been dropped here.
+ 
+~
+9 0 9 1
+2 0 0 0
+1
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+L 1
+#3704
+shield~
+a sub issue shield~
+You see a sub issue shield here.~
+9 0 513 1
+2 0 0 0
+1
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3705
+cloak~
+a sub issue cloak~
+You see a sub issue cloak here.~
+9 0 5 1
+2 0 0 0
+1
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3706
+helmet~
+a sub issue helmet~
+You see a sub issue helmet that has been dropped here rather carelessly.
+ 
+~
+9 0 17 1
+2 0 0 0
+1
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3707
+leggings~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+9 0 33 1
+2 0 0 0
+1
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3708
+boots~
+a pair of sub issue boots~
+You see a pair of sub issue boots here.~
+9 0 65 1
+2 0 0 0
+1
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3709
+gloves~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+9 0 129 1
+2 0 0 0
+1
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3710
+sleeves~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+9 0 257 1
+2 0 0 0
+1
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3711
+cape~
+a sub issue cape~
+You see a sub issue cape here.~
+9 0 1025 1
+2 0 0 0
+1
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3712
+belt~
+a sub issue belt~
+You see a sub issue belt here.~
+9 0 2049 1
+2 0 0 0
+1
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3713
+bracer~
+a sub issue bracer~
+You see a sub issue bracer here.~
+9 0 4097 1
+2 0 0 0
+1
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+L 1
+#3714
+Key~
+a key~
+You see a very important key here!~
+18 0 1 1
+0 0 0 0
+1
+L 1
+#3715
+diploma~
+a mud school diploma~
+You see a mud school diploma here.~
+8 64 16385 1
+0 0 0 0
+1
+A 5 1
+A 4 1
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Hatchet the Silver Knight
+Merc Industries
+~
+L 1
+#3716
+banner~
+a war banner~
+A war banner is on the floor here.~
+1 65 1 1
+0 0 -1 0
+1
+A 24 -1
+A 17 -1
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+L 1
+#3718
+earring~
+the deathmatch winner's earring~
+A fabled prize lies here.
+~
+9 2 65537 1
+0 0 0 0
+1
+A 18 2
+A 19 2
+L 1
+#3719
+gekko ring~
+@@yA Ri@@cng of Ge@@ykk@@co@@N~
+@@yA Ri@@cng of Ge@@ykk@@co lies here.@@N
+~
+9 0 3 1
+0 0 0 0
+1
+A 19 3
+A 18 3
+A 17 -8
+A 13 10
+A 14 10
+L 3
+#3720
+goo~
+@@yA P@@bot of @@yG@@bolden @@yG@@boo@@N~
+@@yA P@@bot of @@yG@@bolden @@yG@@boo lies here.@@N
+~
+19 0 16385 1
+2 0 0 0
+1
+L 5
+#3721
+smackrel honey~
+@@bA S@@ymackrel @@bof H@@yoney@@N~
+@@bA S@@ymackrel @@bof H@@yoney @@bfrom a bear@@N
+~
+9 1 16385 1
+0 0 0 0
+1
+A 1 1
+A 5 -1
+A 13 10
+A 12 10
+A 18 2
+A 19 3
+L 7
+#3722
+shield~
+@@eA @@yFl@@eaming Sh@@yie@@eld@@N~
+@@eA @@yFl@@eaming Sh@@yie@@eld@@N lies here.@@N
+~
+9 0 513 17
+0 0 0 0
+1
+A 17 -15
+A 13 10
+A 19 2
+A 18 2
+A 14 10
+L 8
+#0
+#SHOPS
+3717 0 0 0 0 0 100 100 0 23
+0
+#RESETS
+M 0 3700 1 3701           (acolyte of FRAG)
+
+D 0 3700 2 1 
+
+M 0 3701 1 3710           blob
+
+M 0 3702 1 3716           regular monster in cage
+
+E 0 3705 99 3            give him cloak
+
+E 0 3705 99 4            give him cloak
+
+M 0 3703 1 3715           wimpy monster in cage
+
+E 0 3706 99 6            give him helmet
+
+E 0 3711 99 12           give him cape
+
+M 0 3704 1 3713           aggr monster in cage
+
+E 0 3707 99 7            give him leggings
+
+E 0 3712 99 13           give him belt
+
+M 0 3705 1 3714           aggr/wimpy monster in cage
+
+E 0 3708 99 8            give him boots
+
+E 0 3713 99 14           give him bracer
+
+D 0 3717 1 1 
+
+D 0 3719 1 2 
+
+M 0 3717 1 3718           storekeeper
+
+G 0 3138 999 
+
+G 0 3031 999 
+
+M 0 3706 1 3720           monster in dark room.
+
+E 0 3709 99 9            give him gloves
+
+E 0 3710 99 10           give him sleeves
+
+E 0 3714 99 17           give him the key
+
+E 0 3713 99 14           give him bracer
+
+D 0 3721 0 1 
+
+D 0 3734 5 1 
+
+D 0 3748 4 1 
+
+M 0 3714 1 3749           beast
+
+M 0 3707 1 3712           adept
+
+M 0 3720 1 3721           diploma beast (thanks, Alander!)
+
+E 0 3715 99 17 
+
+M 0 3718 1 3758         adept for training
+
+M 0 3719 1 3759         adept for practicing
+
+M 0 3710 3 3744 (null)
+
+M 0 3711 3 3746 (null)
+
+M 0 3709 1 3734 (null)
+
+G 0 3719 0 (null)
+
+M 0 3713 2 3724 (null)
+
+M 0 3712 4 3723 (null)
+
+M 0 3716 1 3754 (null)
+
+M 0 3722 1 3756 (null)
+
+M 0 3715 1 3751 (null)
+
+M 0 3723 7 3747 (null)
+
+M 0 3724 1 3747 (null)
+
+G 0 3722 0 (null)
+
+M 0 3725 5 3761 (null)
+
+M 0 3726 4 3762 (null)
+
+O 0 20122 2 3700 (null)
+
+M 0 3727 6 3761 (null)
+
+S
+#$

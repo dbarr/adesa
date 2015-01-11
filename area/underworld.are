@@ -1,0 +1,588 @@
+#AREA
+@@dAdesa Underworld@@N~
+Z 3
+C 97
+K underworld~
+L @@e<@@dTown!@@e>@@N~
+N 129
+I 2 120
+V 8250 8284
+X 0
+F 15
+U @@dYou hear a deep distant rumble in the caverns.@@N~
+O cord~
+R Cord que~
+W Cord que~
+T You can teleport into here
+M No bad room spells allowed.
+#ROOMS
+#8250
+@@dCenter of the Underworld@@N~
+@@dThis is the center of the Adesa Underworld...here on the darkside you
+may find things a little different than they appear.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8251
+D1
+~
+~
+0 -1 8259
+D2
+~
+~
+0 -1 8277
+D3
+~
+~
+0 -1 8267
+D4
+~
+~
+1 0 3005
+S
+#8251
+@@dNorthern Road@@N~
+@@dThis is a dark, winding path through a forest of dead trees. It snakes
+along in a northerly direction, but the brush makes it impossible to see far
+ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8252
+D2
+~
+~
+0 -1 8250
+S
+#8252
+@@dNorthern Road@@N~
+@@dThis is a dark, winding path through a forest of dead trees. It snakes
+along in a northerly direction, but the brush makes it impossible to see far
+ahead.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8256
+D2
+~
+~
+0 -1 8251
+D3
+~
+~
+0 -1 8253
+S
+#8253
+@@dNorthern Road@@N~
+@@dThis is a dark, winding path through a forest of dead trees. It snakes
+along in a northerly direction, but the brush makes it impossible to see far
+ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8254
+D1
+~
+~
+0 -1 8252
+S
+#8254
+@@dNorthern Road@@N~
+@@dThis is a dark, winding path through a forest of dead trees. It snakes
+along in a northerly direction, but the brush makes it impossible to see far
+ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8255
+D2
+~
+~
+0 -1 8253
+S
+#8255
+@@dNorthern Road@@N~
+@@dThis is the end of the dreaded forest path. Laughter and strange echos can
+be heard filtering through the trees.@@N
+~
+0 0
+D2
+~
+~
+0 -1 8254
+S
+#8256
+@@dNorthern Road@@N~
+@@dThis is a dark, winding path through a forest of dead trees. It snakes
+along in a northerly direction, but the brush makes it impossible to see far
+ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8257
+D3
+~
+~
+0 -1 8252
+S
+#8257
+@@dNorthern Road@@N~
+@@dThis is a dark, winding path through a forest of dead trees. It snakes
+along in a northerly direction, but the brush makes it impossible to see far
+ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8258
+D2
+~
+~
+0 -1 8256
+S
+#8258
+@@dNorthern Road@@N~
+@@dThis is the end of the dreaded forest path. Laughter and strange echos can
+be heard filtering through the trees. A @@gmountain@@d looms in the distance.@@N
+~
+0 0
+D2
+~
+~
+0 -1 8257
+D3
+~
+mountain~
+1 -1 8900
+S
+#8259
+@@dEastern Road@@N~
+@@dThis is a dark, winding path through a valley of stone walls. It snakes
+along in an easterly direction, but the boulders and crevices make it
+impossible to see too far ahead.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8260
+D3
+~
+~
+0 -1 8250
+S
+#8260
+@@dEastern Road@@N~
+@@dThis is a dark, winding path through a valley of stone walls. It snakes
+along in an easterly direction, but the boulders and crevices make it
+impossible to see too far ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8264
+D2
+~
+~
+0 -1 8261
+D3
+~
+~
+0 -1 8259
+S
+#8264
+@@dEastern Road@@N~
+@@dThis is a dark, winding path through a valley of stone walls. It snakes
+along in an easterly direction, but the boulders and crevices make it
+impossible to see too far ahead.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8265
+D2
+~
+~
+0 -1 8260
+S
+#8265
+@@dEastern Road@@N~
+@@dThis is a dark, winding path through a valley of stone walls. It snakes
+along in an easterly direction, but the boulders and crevices make it
+impossible to see too far ahead.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8266
+D3
+~
+~
+0 -1 8264
+S
+#8266
+@@dEastern Road@@N~
+@@dIt appears that the canyon has dead ended at a very solid, and very tall
+stone wall...or has it??@@N
+~
+0 0
+D3
+~
+~
+0 -1 8265
+S
+#8261
+@@dEastern Road@@N~
+@@dThis is a dark, winding path through a valley of stone walls. It snakes
+along in an easterly direction, but the boulders and crevices make it
+impossible to see too far ahead.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8260
+D1
+~
+~
+0 -1 8262
+S
+#8262
+@@dEastern Road@@N~
+@@dThis is a dark, winding path through a valley of stone walls. It snakes
+along in an easterly direction, but the boulders and crevices make it
+impossible to see too far ahead.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8263
+D3
+~
+~
+0 -1 8261
+S
+#8263
+@@dEastern Road@@N~
+@@dIt appears that the canyon has dead ended at a very solid, and very tall
+stone wall...or has it??@@N
+~
+0 0
+D1
+~
+~
+0 -1 8150
+D3
+~
+~
+0 -1 8262
+S
+#8267
+@@dWestern Road@@N~
+@@dThis is the western road of the Adesa Underground. Large stone spires reach
+skyward forming a walkway leading in a westerly direction.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8250
+D3
+~
+~
+0 -1 8268
+S
+#8268
+@@dWestern Road@@N~
+@@dThis is the western road of the Adesa Underground. Large stone spires reach
+skyward forming a walkway leading in a westerly direction.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8272
+D1
+~
+~
+0 -1 8267
+D2
+~
+~
+0 -1 8269
+S
+#8272
+@@dWestern Road@@N~
+@@dThis is the western road of the Adesa Underground. Large stone spires reach
+skyward forming a walkway leading in a westerly direction.@@N
+~
+0 0
+D2
+~
+~
+0 -1 8268
+D3
+~
+~
+0 -1 8273
+S
+#8273
+@@dWestern Road@@N~
+@@dThis is the western road of the secret Adesa Underground. Large stone
+spires reach skyward forming a walkway leading in a westerly direction.@@N
+~
+0 0
+D0
+~
+secret~
+257 -1 8275
+D1
+~
+~
+0 -1 8272
+D3
+~
+~
+0 -1 8274
+S
+#8274
+@@dWestern Road@@N~
+@@dA massive granite pillar has been placed in the center of the walkway
+halting your progress.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8273
+S
+#8275
+@@RA Secret Room@@N~
+@@RThis is a room built into the very side of one of the massive spires. The
+cracks of the door have been precisely carved to give the illusion of a solid
+wall. This is indeed good craftsmanship, but a room that is little more
+private was the style of the masons... @@N
+~
+0 0
+D0
+~
+private~
+1 -1 8276
+D2
+~
+~
+257 -1 8273
+S
+#8276
+@@BA Private Room@@N~
+@@BThe treasure of the masons has been guarded here by their secrets for many
+years.@@N
+~
+0 0
+D2
+~
+~
+1 -1 8275
+S
+#8269
+@@dWestern Road@@N~
+@@dThis is the western road of the Adesa Underground. Large stone spires reach
+skyward forming a walkway leading in a westerly direction.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8268
+D3
+~
+~
+0 -1 8270
+S
+#8270
+@@dWestern Road@@N~
+@@dThis is the western road of the Adesa Underground. Large stone spires reach
+skyward forming a walkway leading in a westerly direction.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8269
+D3
+~
+~
+0 -1 8271
+S
+#8271
+@@dWestern Road@@N~
+@@dA massive granite pillar has been placed in the center of the walkway
+halting your progress.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8270
+S
+#8277
+@@dSouthern Road@@N~
+@@dThis road leads underground through a minor cave system. The path is dimly
+lit by an undetected magical source intended to help you along your way.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8250
+D2
+~
+~
+0 -1 8278
+S
+#8278
+@@dSouthern Road@@N~
+@@dThis road leads underground through a minor cave system. The path is dimly
+lit by an undetected magical source intended to help you along your way.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8277
+D1
+~
+~
+0 -1 8282
+D3
+~
+~
+0 -1 8279
+S
+#8279
+@@dSouthern Road@@N~
+@@dThis road leads underground through a minor cave system. The path is dimly
+lit by an undetected magical source intended to help you along your way.@@N
+~
+0 0
+D1
+~
+~
+0 -1 8278
+D2
+~
+~
+0 -1 8280
+S
+#8280
+@@dSouthern Road@@N~
+@@dThis road leads underground through a minor cave system. The path is dimly
+lit by an undetected magical source intended to help you along your way.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8279
+D2
+~
+~
+0 -1 8281
+S
+#8281
+@@dSouthern Road@@N~
+@@dThe cave has been sealed off here by a thick stone wall, however a hole
+just large enough for a person lies nearly concealed behind a large boulder
+@@N
+~
+0 0
+D0
+~
+~
+0 -1 8280
+D5
+~
+hole~
+1 -1 8500
+S
+#8282
+@@dSouthern Road@@N~
+@@dThis road leads underground through a minor cave system. The path is dimly
+lit by an undetected magical source intended to help you along your way.@@N
+~
+0 0
+D2
+~
+~
+0 -1 8283
+D3
+~
+~
+0 -1 8278
+S
+#8283
+@@dSouthern Road@@N~
+@@dThis road leads underground through a minor cave system. The path is dimly
+lit by an undetected magical source intended to help you along your way.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8282
+D2
+~
+~
+0 -1 8284
+S
+#8284
+@@dSouthern Road@@N~
+@@dThe cave has been sealed off here by a thick stone wall. You seem to come
+up short after scouring the area for other exits, except for something that
+seems shrouded in @@gillusions@@d.@@N
+~
+0 0
+D0
+~
+~
+0 -1 8283
+D2
+~
+^illusions~
+1 -1 10297
+S
+#0
+#OBJECTS
+#8276
+treasure money~
+money~
+@@yThe treasures of the ancient masons has been left here.@@N
+~
+20 0 1 1
+5000 0 0 0
+1
+L 120
+#0
+#RESETS
+O 0 8276 3 8276 (null)
+
+S
+#$

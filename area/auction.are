@@ -1,0 +1,945 @@
+#AREA
+Immortal Auction EQ~
+Z 3
+C 95
+K none ~
+L {?? ??}~
+N 123
+I 1 1
+V 8000 8149
+X 0
+F 5
+U @@WYou there....catch@@N~
+O muffin~
+R Alviarin~
+W Alviarin~
+S Title not shown on area list.
+#ROOMS
+#8000
+Auction House~
+@@N             @@W(\-.
+@@N             @@W/ _@@e`@@d> @@y.---------.
+@@N     _@@W)     / _)=  @@y|'-------'|
+@@N    @@W(      / _/    @@y|@@GO   O   o@@y|
+@@N     @@W`-.__(___)_   @@y| @@Go O . o @@y|
+@@N                   @@y`---------'@@N
+~
+4 0
+D1
+~
+~
+0 -1 8001
+D5
+~
+~
+0 -1 3056
+S
+#8001
+Crown~
+@@N      @@y_.+._
+@@N    @@g(^\/^\/^)
+@@N     @@g\@@eO*O*O@@y/
+@@N     @@y{_____}@@N
+~
+0 0
+D1
+~
+~
+0 -1 8002
+D3
+~
+~
+0 -1 8000
+S
+#8002
+Bat~
+@@N             @@W=,    @@p(\@@W_@@p/)    @@W,=
+@@N              @@W/`-'--@@d(@@l"@@d)@@W--'-'\
+@@N             @@W/     @@d(_@@Wo@@d_)     @@W\
+@@N            @@W/.-.-./ @@b" "@@W \.-.-.\@@N
+~
+0 0
+D0
+~
+~
+0 -1 8003
+D3
+~
+~
+0 -1 8001
+S
+#8003
+Flower~
+@@N       @@c _  _
+@@N       @@c(@@a_\/_@@c)
+@@N      @@c(@@a_>@@y()@@a<_@@c)
+@@N       @@c(_@@a/\@@c_)
+@@N         @@G||
+@@N       @@r|\@@G||@@r/|
+@@N      @@G__@@r\@@G||@@r/@@G__@@N
+~
+0 0
+D0
+~
+~
+0 -1 8004
+D2
+~
+~
+0 -1 8002
+S
+#8004
+Birthday~
+HAPPY BIRTHDAY ERIGOL
+*                           *
+         @@R,,,,,,,
+        @@y_|||||||_
+       @@b+*+*+*+*+*+
+       @@b}         {
+       @@b+*+*+*+*+*+
+           @@r) (
+          @@r/___\
+~
+0 0
+D1
+~
+~
+0 -1 8005
+D2
+~
+~
+0 -1 8003
+S
+#8005
+Rose~
+@@G __
+                 @@G_   / /|
+                @@G|\\  \/_/
+                @@G\_\| / __              
+                   @@G\/_/__\           @@R.-=='/*\
+            @@G____,__/__,_____,______)/   @@R/{*}}}
+            @@G-,------,----,-----,---,\@@R'-' {{*}}
+                                     @@R'-==.\}/
+~
+0 0
+D3
+~
+~
+0 -1 8004
+S
+#0
+#MOBILES
+#8001
+smurf~
+@@lA Small Smurf@@N~
+@@lA Small Smurf strolls past you.@@N
+~
+~
+5 0 0 S
+8 1
+-15 30 30 0 0
+! 0 0 0 7 0 0 0
+#8002
+sleepy dragon~
+@@cT@@bhe @@cS@@bl@@yee@@bpy @@cD@@br@@dago@@bn@@N~
+@@cA S@@bl@@yee@@bp@@dy @@cD@@br@@da@@bg@@do@@bn@@N
+~
+~
+1 524328 0 S
+119 1
+-2000 500 500 0 0
+! 0 0 0 7 0 0 0
+S spec_josh~
+>rand_prog 1~
+gos Anyone want to group?
+~
+>rand_prog 1~
+gos Would anyone like to join my clan?
+~
+>rand_prog 1~
+crusade who*
+~
+>rand_prog 80~
+if ispc($n)
+say $n, would you have any brimstone with you?
+endif
+~
+>give_prog brimstone~
+if ispc($n)
+say Yummmmm!!!!
+mpoload 3043
+give tooth $n
+eat brimstone
+wave $n
+endif
+~
+|
+#8003
+cupid~
+@@eC@@gupid@@N~
+Someone collides with you, sending @@ea@@grrow@@es @@gflying.@@N
+~
+~
+65 0 0 S
+6 1
+-15 30 30 0 0
+! 0 0 0 7 0 0 0
+#8004
+cinnamon bear~
+@@bT@@eh@@be @@eC@@bi@@en@@bn@@ea@@bm@@eo@@bn @@eB@@be@@ea@@br@@N~
+@@bT@@eh@@be @@eC@@bi@@en@@bn@@ea@@bm@@eo@@bn @@eB@@be@@ea@@br lopes past with a bag of cookies in his mouth.@@N
+~
+~
+65 0 0 S
+6 1
+0 0 0 0 0
+! 0 0 0 7 0 0 0
+#0
+#OBJECTS
+#8110
+leggings immeq~
+@@aM@@Woo@@anst@@Won@@ae Le@@Wgg@@aings <@@WI@@a>@@N~
+@@WThe @@aM@@Woo@@anst@@Won@@ae Le@@Wgg@@aings @@Wlie at your feet.@@N
+~
+9 4194305 33 16401
+0 0 0 0
+4
+A 13 110
+A 12 110
+A 17 -165
+A 18 27
+A 19 28
+A 2 1
+L 110
+#8100
+cloak immeq~
+@@eA @@rT@@War@@et@@ran @@eC@@Wlo@@rak <@@WI@@r>@@N~
+@@eA @@rT@@War@@et@@ran @@eC@@Wlo@@rak lies on the floor.@@N
+~
+9 2 1025 5
+0 0 0 0
+3
+A 1 1
+A 13 100
+A 12 100
+A 17 -150
+A 19 25
+A 18 25
+L 100
+#8090
+star immeq~
+@@cA @@yTw@@cis@@yt@@ced @@ySt@@car <@@yI@@c>@@N~
+@@cA @@yTw@@cis@@yt@@ced @@ySt@@car grins up at you.@@N
+~
+9 4194305 2049 129
+0 0 0 0
+2
+A 13 90
+A 12 90
+A 17 -135
+A 19 23
+A 18 22
+A 4 1
+L 90
+#8080
+armor immeq~
+@@WM@@ai@@Ws@@at@@Wy A@@ar@@Wm@@ao@@Wr <@@aI@@W>@@N~
+@@WThe @@WM@@ai@@Ws@@at@@Wy A@@ar@@Wm@@ao@@Wr lies at your feet.@@N
+~
+9 32 9 9
+0 0 0 0
+5
+A 19 22
+A 18 22
+A 17 -200
+A 13 200
+A 12 82
+A 3 1
+L 82
+#8070
+gloves~
+@@mG@@dloves @@mof N@@dightshade <@@mI@@d>@@N~
+@@WThe @@mG@@dloves @@mof N@@dightshade @@Wglow at your feet.@@N
+~
+9 1 129 17
+0 0 0 0
+1
+A 13 70
+A 12 70
+A 17 -105
+A 19 18
+A 18 17
+A 1 1
+L 70
+#8060
+shield~
+@@WA @@eM@@Wapl@@ee @@eL@@Wea@@ef @@eS@@Whiel@@ed <@@WI@@e>@@N~
+@@WA @@eM@@Wapl@@ee @@eL@@Wea@@ef @@eS@@Whiel@@ed @@Wlies on the ground.@@N
+~
+9 256 513 17
+0 0 0 0
+5
+A 13 60
+A 12 60
+A 17 -90
+A 18 15
+A 19 15
+A 1 1
+L 60
+#8050
+helm~
+@@cH@@de@@Wl@@gm @@do@@Wf @@cB@@dre@@Wma@@gn <@@cI@@g>@@N~
+@@WThe @@cH@@de@@Wl@@gm @@do@@Wf @@cB@@dre@@dma@@gn @@Wlies on the ground.@@N
+~
+9 64 17 17
+0 0 0 0
+1
+A 13 50
+A 12 50
+A 17 -75
+A 19 13
+A 18 13
+L 50
+#8081
+boots immeq~
+@@GB@@doot@@Gs of J@@dam@@Gu <@@dI@@G>@@N~
+@@GThe B@@doot@@gs of J@@dam@@Gu lie at your feet.@@N
+~
+9 4194560 65 133
+0 0 0 0
+5
+A 13 82
+A 12 81
+A 19 21
+A 18 21
+A 17 -120
+A 2 1
+L 80
+#8020
+collar~
+@@eA @@dB@@eayberry @@dC@@eollar <@@dI@@e>@@N~
+@@eA @@RB@@eayberry @@RC@@eollar @@Wlies at your feet@@N
+~
+9 64 5 1
+0 0 0 0
+1
+A 19 10
+A 18 10
+A 17 -50
+A 13 40
+A 12 40
+A 3 1
+L 20
+#8030
+gloves~
+@@GC@@chameleon @@GG@@cloves <@@GI@@c>@@N~
+@@GC@@chameleon @@GG@@cloves @@Wlie on the floor@@N
+~
+9 0 129 17
+0 0 0 0
+2
+A 13 30
+A 12 30
+A 17 -45
+A 18 8
+A 19 7
+A 5 1
+L 30
+#8031
+candle immeq~
+@@yA B@@geeswax @@yC@@gandle <@@yI@@g>@@N~
+@@yA B@@geeswax @@yC@@gandle drips on the floor@@N
+~
+1 4194305 1025 9
+0 0 -1 0
+1
+A 3 1
+A 13 30
+A 12 30
+A 17 -45
+A 19 8
+A 18 8
+L 30
+#8040
+boots~
+@@pA@@brrowroot @@pB@@boots <@@pI@@b>@@N~
+@@pA@@brrowroot @@pB@@boots @@Wsit on the ground.@@N
+~
+9 0 65 33
+0 0 0 0
+2
+A 13 40
+A 12 40
+A 17 -60
+A 18 10
+A 19 11
+A 2 1
+L 40
+#8041
+rope~
+@@WRo@@lpe @@Wof @@WCl@@louds <@@WI@@l>@@N~
+@@WThe Ro@@lpe @@Wof @@WCl@@louds @@Wfloats at your fingertips@@N
+~
+9 0 2049 17
+0 0 0 0
+1
+A 13 40
+A 12 40
+A 17 -60
+A 18 8
+A 19 8
+A 4 1
+L 40
+#8091
+shield~
+@@mR@@po@@dse @@mS@@ph@@dield <@@pI@@d>@@N~
+@@mA R@@po@@dse @@mS@@ph@@dield @@Wlies on the ground@@N
+~
+9 64 513 193
+0 0 0 0
+7
+A 13 90
+A 12 90
+A 17 -140
+A 19 22
+A 18 23
+A 1 1
+A 4 1
+L 90
+#8125
+helm immeq~
+@@gT@@che @@gH@@celm of @@gW@@carlocks <@@gI@@c>@@N~
+@@gT@@che @@gH@@celm of @@gW@@carlocks @@Wlies at your feet.@@N
+~
+9 4718592 17 97
+0 0 0 0
+3
+A 13 120
+A 12 120
+A 17 -180
+A 19 31
+A 18 31
+A 4 1
+A 5 1
+L 5
+#8130
+shaman's staff immeq~
+@@cA @@WS@@bh@@caman's @@WS@@bt@@caff <@@WI@@c>@@N~
+@@cA @@WS@@bh@@caman's @@WS@@bt@@caff @@Wlies here.@@N
+~
+9 4718592 16385 41
+0 0 0 0
+4
+A 18 32
+A 19 32
+A 17 -200
+A 13 160
+A 12 160
+A 4 1
+L 10
+#8135
+leggings immeq~
+@@bS@@dha@@Wdowma@@gster @@bL@@deg@@Wgi@@gngs <@@dI@@W>@@N~
+@@bS@@dha@@Wdowma@@gster @@bL@@deg@@Wgi@@gngs lie on the floor@@N
+~
+9 4718592 33 1537
+0 0 0 0
+2
+A 13 200
+A 18 35
+A 19 35
+A 17 -220
+A 12 200
+A 2 1
+A 1 1
+L 15
+#8140
+clasp immeq~
+@@dC@@Wla@@gsp of @@c-*- @@gthe Re@@Wal@@dm <@@cI@@d>@@N~
+@@WA @@dC@@Wla@@gsp of @@c-*- @@gthe Re@@Wal@@dm @@Wlies here.@@N
+~
+9 4718592 2049 16401
+0 0 0 0
+3
+A 13 240
+A 18 37
+A 19 37
+A 17 -240
+A 12 240
+A 1 1
+A 4 1
+L 20
+#8021
+gloves immeq~
+@@lG@@cloves @@lo@@cf @@lK@@cayli <@@lI@@c>@@N~
+@@WThe @@lG@@cloves @@lo@@cf @@lK@@cayli @@Wlie at your feet.@@N
+~
+9 4194305 129 17
+0 0 0 0
+1
+A 18 6
+A 19 8
+A 17 -40
+A 13 30
+A 12 20
+A 1 2
+L 20
+#8051
+leggings~
+@@dL@@We@@gggings @@do@@Wf @@dC@@Wa@@gmelot <@@dI@@g>@@N~
+@@WThe @@dL@@We@@gggings @@do@@Wf @@dC@@Wa@@gmelot @@Wlie on the ground@@N
+~
+9 64 33 65
+0 0 0 0
+2
+A 13 50
+A 12 50
+A 17 -75
+A 18 13
+A 19 13
+A 1 1
+L 50
+#8052
+earring eye~
+@@bTi@@yg@@ber E@@yy@@be <@@yI@@b>@@N~
+@@WThe @@bTi@@yg@@ber E@@yy@@be @@Wwinks at you.@@N
+~
+9 0 65537 9
+0 0 0 0
+1
+A 13 50
+A 12 50
+A 17 -75
+A 18 13
+A 19 13
+A 4 1
+L 50
+#8053
+shield~
+@@c<* @@WR.I.P.@@c*>@@N~
+A very special shield lies here.@@N
+~
+9 0 513 1
+0 0 0 0
+1
+L 50
+#8085
+yellow rose~
+@@gA @@aBeautiful @@yGolden @@cRose@@N~
+A long-stemmed rose lies here.
+~
+1 13762560 16385 1
+0 0 0 0
+1
+A 13 90
+A 12 90
+A 19 23
+A 18 23
+A 17 -135
+L 90
+#8061
+boots immeq~
+@@cB@@moo@@cts @@mof the @@cGri@@mff@@cin <@@mI@@c>@@N~
+@@NThe boots of the griffin lie here.
+~
+9 4194304 65 16481
+0 0 0 0
+1
+A 1 1
+A 2 1
+A 13 60
+A 12 60
+A 17 -90
+A 19 15
+A 18 15
+L 60
+#8022
+suit immeq~
+@@eA S@@gan@@eta S@@gui@@et <@@gI@@e>@@N~
+@@eA S@@gan@@eta S@@gui@@et @@Wlies here.@@N
+~
+9 4194304 9 16401
+0 0 0 0
+1
+A 19 10
+A 18 10
+A 17 -60
+A 13 50
+A 12 50
+L 20
+#8032
+holly immeq~
+@@GA @@eHo@@Gll@@ey Be@@Grr@@ey <@@GI@@e>@@N~
+@@GA @@eHo@@Gll@@ey Be@@Grr@@ey @@Wlies here.@@N
+~
+9 4194304 65537 17
+0 0 0 0
+1
+A 13 30
+A 12 30
+A 17 -45
+A 18 8
+A 19 8
+L 30
+#8042
+bells immeq~
+@@eJ@@ping@@ple @@eB@@pells <@@eI@@p>@@N~
+@@WSome @@eJ@@ping@@ple @@eB@@pells @@Wlie here.@@N
+~
+9 4194304 2049 17
+0 0 0 0
+1
+A 13 40
+A 12 40
+A 17 -60
+A 18 11
+A 19 10
+L 40
+#8054
+gauntlets immeq~
+@@bBu@@Wnn@@byfur Gauntlets <@@WI@@b>@@N~
+@@bBu@@Wnn@@byfur Gauntlets <@@WI@@b> lie here.@@N
+~
+9 4194304 257 1153
+0 0 0 0
+1
+A 13 50
+A 12 50
+A 17 -75
+A 18 13
+A 19 13
+L 50
+#8062
+pinecone immeq~
+@@GA @@GP@@binecone @@GW@@breath <@@GI@@b>@@N~
+@@GA @@GP@@binecone @@GW@@breath @@g lies here.@@N
+~
+9 4194304 5 321
+0 0 0 0
+1
+A 19 18
+A 18 18
+A 17 -100
+A 13 70
+A 12 70
+L 60
+#8071
+charm immeq~
+@@pA @@GLu@@gcky @@pCh@@Gar@@gm <@@GI@@g>@@N~
+@@pA @@GLu@@gcky @@pCh@@Gar@@gm lies here.@@N
+~
+9 4194560 5 17
+0 0 0 0
+1
+A 19 20
+A 18 20
+A 17 -110
+A 13 80
+A 12 80
+A 3 1
+L 70
+#8082
+boots immeq~
+@@gS@@ln@@gow@@lf@@glake B@@loo@@gts <@@lI@@g>@@N~
+@@gS@@ln@@gow@@lf@@glake B@@loo@@gts lie here@@N
+~
+9 4194560 65 133
+0 0 0 0
+5
+A 13 85
+A 12 83
+A 17 -125
+A 18 21
+A 19 22
+A 3 1
+A 4 1
+L 82
+#8092
+golden immeq~
+@@yG@@go@@ylden @@yG@@ga@@yrland <@@gI@@y>@@N~
+@@yG@@go@@ylden @@yG@@ga@@yrland @@glies here@@N
+~
+9 4194304 5 25
+0 0 0 0
+1
+A 19 25
+A 18 25
+A 17 -150
+A 13 150
+A 12 150
+A 14 150
+A 1 1
+A 3 1
+L 90
+#8141
+feather logic~
+@@yFe@@da@@Wth@@ger @@yof @@gLo@@Wgi@@yc <@@WI@@y>@@N~
+@@yFe@@da@@Wth@@ger @@yof @@gLo@@Wgi@@yc <@@WI@@y>@@N
+~
+9 4718592 2049 16401
+0 0 0 0
+3
+A 13 240
+A 17 -240
+A 18 37
+A 19 37
+A 12 240
+A 1 1
+A 4 1
+L 20
+#8001
+gift partridge~
+@@gOne @@bPartridge @@gin a @@yPear @@GTree@@N~
+@@bOne Partridge in a Pear Tree is good for one qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8002
+gift doves~
+@@gTwo @@GTurtle @@dDoves@@N~
+@@gTwo @@GTurtle @@dDoves are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8003
+gift hens~
+@@gThree @@pFrench @@bHens@@N~
+@@gThree @@pFrench @@bHens are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8004
+gift birds~
+@@gFour @@aCalling @@cBirds@@N~
+@@gFour @@aCalling @@cBirds are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8005
+gift rings~
+@@gFive @@yGolden Rings@@N~
+@@gFive @@yGolden Rings are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8006
+gift geese~
+@@gSix @@bGeese @@Wa @@cLaying@@N~
+@@gSix @@bGeese @@Wa @@cLaying is worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8007
+gift swans~
+@@gSeven @@lSwans @@ga @@bSwimming@@N~
+@@gSeven @@lSwans @@ga @@bSwimming are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8008
+gift maids~
+@@gEight @@lM@@Waids a @@lM@@Wilking@@N~
+@@gEight @@lM@@Waids a @@lM@@Wilking are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8009
+gift ladies dancing~
+@@gNine @@rL@@aadies @@rD@@aancing@@N~
+@@gNine @@rL@@aadies @@rD@@aancing are worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8010
+gift lords~
+@@gTen @@eLords @@da @@eLeaping@@N~
+@@gTen @@eLords @@da @@eLeaping @@dare worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8011
+gift pipers~
+@@gEleven @@rPipers @@ePiping@@N~
+@@gEleven @@rPipers @@ePiping @@dis worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8012
+gift drummers~
+@@gTwelve @@yD@@rrummers @@lD@@crumming@@N~
+@@gTwelve @@yD@@rrummers @@lD@@crumming is worth 1 qp@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8142
+golden rings immeq~
+@@yF@@di@@Wv@@ge @@yG@@dol@@Wde@@gn @@yR@@din@@Wg@@gs -@@yI@@g-@@N~
+@@yF@@di@@Wv@@ge @@yG@@dol@@Wde@@gn @@yR@@din@@Wg@@gs -@@yI@@g-@@N
+~
+9 4718593 4097 16401
+0 0 0 0
+3
+A 13 240
+A 18 37
+A 19 37
+A 17 -240
+A 1 1
+A 4 1
+A 12 240
+L 20
+#8146
+ring~
+@@yAladdin's Ring@@N~
+It lays here @@N
+~
+9 29360161 3 101
+0 0 0 0
+1
+A 13 480
+A 12 480
+A 19 50
+A 18 50
+A 17 -480
+A 24 -36
+A 1 10
+L 120
+#8013
+heart basket~
+@@eA @@gH@@eeart @@gB@@easket@@N~
+@@eA @@gH@@eeart @@gB@@easket @@glies here.@@N
+~
+15 537001984 16385 1
+12 1 0 0
+1
+L 5
+#8149
+goose leg~
+@@aA @@RMassive @@bgoose @@lleg@@N~
+@@aA charred and crispy leg of goose.
+~
+19 0 16385 1
+50 0 0 0
+1
+L 10
+#8148
+ginger cookie~
+@@gA @@bG@@gin@@bger C@@goo@@bkie@@n~
+@@gA @@bG@@gin@@bger C@@goo@@bkie@@n
+~
+19 1 16385 1
+50 0 0 0
+1
+L 5
+#8147
+fat goat~
+@@bA @@bF@@Wat @@bG@@Woat@@N~
+@@bA @@bF@@Wat @@bG@@Woat sits here.@@N
+~
+19 0 16385 1
+50 0 0 0
+1
+L 5
+#8014
+gift heart~
+@@eA @@gV@@ea@@gl@@ee@@gn@@et@@gi@@en@@ge @@eHeart@@N~
+@@eA @@gV@@ea@@gl@@ee@@gn@@et@@gi@@en@@ge @@eHeart is worth 2 qp.@@N
+~
+8 4325376 1 1
+0 0 0 0
+1
+L 2
+#8000
+token~
+token~
+~
+9 0 524289 1
+0 0 0 0
+1
+A 13 686
+A 12 916
+A 14 1076
+A 18 20
+A 19 18
+A 24 -95
+A 17 -644
+L 1
+#8015
+cake~
+@@lW@@gedding @@lC@@gake@@N~
+@@gA piece of @@lW@@gedding @@lC@@gake@@N/n~
+19 0 1 1
+10 0 0 0
+1
+L 1
+#8016
+bouquet~
+@@gA @@BB@@gouquet of @@BF@@glowers@@N~
+A bouquet of flowers lies here./n~
+9 0 16385 1
+0 0 0 0
+1
+L 1
+#8017
+gown~
+@@WA Wedding Gown@@N~
+@@WA Wedding Gown lies here@@N/n~
+9 0 9 1
+0 0 0 0
+1
+L 1
+#8019
+ring~
+@@yA Simple Golden Band@@N~
+@@yA Golden Band of Eternal Love@@N
+~
+9 2576 3 77321
+0 0 0 0
+4
+A 17 -200
+A 18 32
+A 19 32
+A 13 200
+A 12 125
+A 1 2
+A 2 2
+A 5 1
+E
+band~
+Upon closer inspection, you see an inscription carved on the inner surface of this band.  It reads One Heart, One Soul, One Life, One Love...Eternal
+~
+L 120
+#8069
+adesa cheateq~
+@@aA@@cd@@de@@gs@@Wa @@dC@@gh@@de@@ga@@dt @@aE@@cq@@d.@@N~
+@@aA@@cd@@de@@gs@@Wa @@dC@@gh@@de@@ga@@dt @@aE@@cq@@d is lying here.@@N
+~
+9 549453824 1 1
+0 0 -1 0
+1
+L 120
+#0
+#$
