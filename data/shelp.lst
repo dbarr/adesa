@@ -1,0 +1,1554 @@
+Steal~
+N/A~
+N/A~
+Passive/Aggressive~
+Other~
+Attempts to steal an item or coins from a mob or player. If the steal is failed, the victim will attack you. Also, stealing from players and shopkeepers will usually get you flagged as a thief.~
+Sneak~
+level~
+N/A~
+Passive~
+None (Self)~
+When sneak is enabled you will attempt to move silently between rooms, so others are less likely to see you enter or exit. The lower someone's level is compared to yours, the less chance they have of detecting you.~
+Dodge~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, dodge is constantly active. It will reduce your chances of being physically hit by an opponent.~
+Backstab~
+N/A~
+N/A~
+Offensive~
+Other~
+Only usable while you and the victim are out of combat, and when wielding a piercing or stabbing weapon. This attack does a large amount of damage to any fully corporeal creature, and initiates combat. (Note: the command 'bs' may be used as an abbreviation for this skill)~
+Appraise~
+N/A~
+N/A~
+Passive~
+Object~
+This skill can be used to estimate the gold value of an item, and a few other things about it. Not very useful.~
+Hide~
+Temporary~
+N/A~
+Passive~
+None (Self)~
+Hidden players cannot be seen by other players or mobs that are not able to "detect hidden". Hide wears off when the user enters combat or performs similar significant actions.~
+Second Attack~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, second attack is always active. It gives the player a chance of doing one additional round of damage per combat round.~
+Find Doors~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, find doors is always active. It allows players to detect closed doors in the cardinal directions. These doors will also be visible on the autoexit line, shown in brackets.~
+Trip~
+N/A~
+N/A~
+Offensive~
+Other~
+The target of trip must currently be in combat. Trip will, as its name suggests, trip the target, allowing more damage to be done to the fallen for a short time.~
+Circle~
+N/A~
+N/A~
+Offensive~
+Other~
+Similar to backstab, but less powerful and with a greater chance of failure. Both you and the victim must be in combat, the enemy must have a real body, and you must be weilding a piercing or stabbing weapon. Inflicts a large amount of instant physical damage.~
+Peek~
+Permanent~
+N/A~
+Permanent~
+Other~
+Once learned, peek will always be active. It gives the user an automatic chance of looking into the inventory of another player or mob when the 'look' command is used on the target. Peek is linked with the 'look' command and cannot be used independently.~
+Climb~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, climb will always be active. It is used to climb over rocks and other such impassable objects. Superseded by the ability 'fly'.~
+Pick Lock~
+N/A~
+N/A~
+Passive~
+Door~
+This will attempt to pick open the lock on a locked door. Note that locks will often be unpickable.~
+Notrip~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, notrip will always be active. It reduces your chances of being tripped.~
+Martial Arts~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, martial arts will always be active. It makes you do a bit more damage in combat.~
+Nodisarm~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, nodisarm will always be active. It reduces your chances of being disarmed.~
+Third Attack~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, third attack is always active. It gives the player a chance of doing one additional round of damage per combat round.~
+Hunt~
+Temporary~
+N/A~
+Passive~
+Other~
+When the hunt skill is used, a player or mob in your current area is nominated. A trail will then appear that can be followed to your target. This track will vanish if either you or your target leaves the area, or if your target otherwise disappears. Use 'hunt self' to stop hunting.~
+Identify~
+N/A~
+N/A~
+Passive~
+Object~
+This spell, when cast upon an object, reveals to the caster its characteristics - object type, and other info.~
+Warcry~
+4 + level~
+Hitroll+, Save vs Spell-~
+Defensive~
+Self~
+This spell will give a bonus to hitroll and save vs spell for a long time.~
+Punch~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Does a bit of damage. Can be used to initiate combat, or as a sort of additional attack in combat.~
+Headbutt~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Does a bit of damage. Can be used to initiate combat, or as a sort of additional attack in combat. (Remind you of any other skills? :P)~
+Knee~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Does a bit of damage. Can be used to initiate combat, or as a sort of additional attack in combat. The victim must have a body for this skill to work~
+Parry~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, parry is constantly active. It will reduce your chances of being physically hit by an opponent.~
+Disarm~
+N/A~
+N/A~
+Offensive~
+Enemy~
+Usable only in combat, this skill will disarm your opponent, making them drop their weapon onto the floor. Some weapons cannot be disarmed.~
+Kick~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Does a bit of damage. Can be used to initiate combat, or as a sort of additional attack in combat. This one is more popular than the other, similar skills.~
+Rescue~
+N/A~
+N/A~
+Defensive~
+Other~
+This skill allows you to remove your target from combat, and redirect attacks against them to yourself. Not all attackers are redirected at once, so multiple rescues may be required if the target is fighting many players or mobs.~
+Mount~
+N/A~
+N/A~
+Special~
+Other~
+This skill allows you to ride on mountable mobs. See HELP MOUNT for more information on mounts and mounting.~
+Bash~
+N/A~
+N/A~
+Offensive~
+Other~
+Damages the target. Also, there is a chance that a successful bash on a weak target will knock them to the ground, removing the target from combat and placing them in the 'rest' position.~
+Smash~
+N/A~
+N/A~
+Passive~
+Door~
+Smash allows you to break your way through doors, including closed and locked ones. Some doors, however, are too strong to be smashed open.~
+Berserk~
+2~
+Hitroll+, Damroll+, AC+, Save vs Spell+~
+Defensive~
+None (Self)~
+Use berserk in combat to provide a short boost to hitroll and damroll, while worsening AC and save vs spell.~
+Dirt~
+1~
+Effects~
+Offensive~
+Other~
+Dirt will kick dirt at the eyes of a fighting player or mob, blinding them for a short time.~
+Shield Block~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, shield block is always active. If you have a shield equipped, there is a chance that you will block an otherwise successful attack against you with it.~
+Enhanced Damage~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, enhanced damage is always active. With it, you do more combat damage.~
+Fourth Attack~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, fourth attack is always active. It gives the player a chance of doing one additional round of damage per combat round.~
+Stake~
+N/A~
+N/A~
+Special~
+N/A~
+The purpose of this skill is unknown.~
+Decapitate~
+N/A~
+N/A~
+Special~
+N/A~
+The purpose of this skill is unknown.~
+Mind Flail~
+N/A~
+N/A~
+Offensive~
+Other~
+An attack directly on the victims mind. This spell damages your opponent.~
+Planergy~
+N/A~
+N/A~
+Offensive~
+Other~
+This attack increases in effectiveness at every 9th level, to a max of 72. It deals damage directly to your victim.~
+Physic Thrust~
+N/A~
+N/A~
+Offensive~
+Other~
+Another direct damage spell.~
+See Magic~
+6 + (level / 4)~
+N/A~
+Passive~
+Self~
+While active, 'see magic' allows you to see magical auras surrounding items.~
+Barrier~
+4 + (level / 20)~
+AC-~
+Defensive~
+None (Self)~
+Creates a telekinetic barrier around you, providing extra protection against attacks.~
+Know Item~
+N/A~
+N/A~
+Passive~
+Object~
+When cast upon an object in your inventory, it will display certain properties of that item. This is a different, and generally less informative version of 'identify'.~
+Shadowform~
+level~
+N/A~
+Passive~
+None (Self)~
+When shadowform is enabled you will attempt to move silently between rooms, so others are less likely to see you enter or exit. The lower someone's level is compared to yours, the less chance they have of detecting you. This skill is the same as 'sneak'.~
+Sense Evil~
+5 + (level / 10)~
+N/A~
+Passive~
+None (Self)~
+While active, 'sense evil' allows you to detect evil auras on players and mobs. This is indicated by the (Red) prefix.~
+Phobia~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+By projecting nightmare images into the victims mind, you are able to cause damage to the target or, preferably, make them flee.~
+Mind Bolt~
+N/A~
+N/A~
+Offensive~
+Other~
+This spell will send from 1 to 5 bolts of energy (dependant on your level) as direct attacks on the victims mind. This will inflict damage.~
+Know Weakness~
+5~
+Hitroll+~
+Defensive~
+None (Self)~
+By gaining insight into the weaknesses of your opponents, this spell effectively increases your hitroll by 3 while active.~
+Night Vision~
+4 + (level / 3)~
+N/A~
+Passive~
+None (Self)~
+While active, 'night vision' allows you to see in the dark without need for a light source.~
+Physic Crush~
+N/A~
+N/A~
+Offensive~
+Other~
+In an attempt to crush the victim's mind, this spell will inflict damage on the target.~
+Static~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+You zap your victim with a burst of static electricity! Inflicts damage on the target.~
+Detection~
+N/A~
+N/A~
+Passive~
+Object~
+By naming an object, this spell will show you where objects of this name are. This includes objects in rooms and objects held by players. This will NOT find objects inside containers. Not all objects can be detected by this spell.~
+Produce Food~
+N/A~
+N/A~
+Passive~
+None~
+When cast, a small bundle of food will appear in the room.~
+Ego Whip~
+N/A~
+N/A~
+Offensive~
+Other~
+This obscure psionic attack will damage your target.~
+Bloody Tears~
+1 + (level / 4) (?)~
+Hitroll-~
+Offensive~
+Other~
+The victim of 'bloody tears' will suffer from bleeding eyes. This means they cannot see, and will be affected by 'blindness', also giving them a hitroll penalty.~
+Know Critical~
+5~
+Hitroll+~
+Defensive~
+None (Self)~
+This spell increases your hitroll by 3 while active. You know your enemy's critical weaknesses.~
+Visit~
+N/A~
+N/A~
+Passive~
+Other~
+Visit will teleport you to the same room as the target player. Some areas and rooms cannot be visited into. Also, a player may disallow all visits to them by using 'config +novisit'.~
+Mindflame~
+N/A~
+N/A~
+Offensive~
+None (All)~
+Mindflame is an offensive attack against all mobs in the same room as you. If a mob casts mindflame, it will attack all players in the room, and ignore other mobs.~
+Phase~
+3 + (level / 20)~
+AC-~
+Defensive~
+None (Self)~
+By phasing your body into another plane, you gain an AC bonus, and the ability to pass through doors. Some magically protected doors will not be passable with this method, and must be opened more conventionally. Note also that if you already have the effect 'pass door' then this spell will not function, and the AC bonus will be ignored.~
+Suffocate~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+This painful attack causes the telekinetic constriction of your opponents throat. It will inflict damage.~
+Fire Blade~
+2 + (level / 20)~
+N/A~
+Passive~
+None (Self)~
+The caster of this spell conjures a magical fireblade, a slashing-type weapon which will be wielded for the duration of the spell (any weapon used at the time of casting will be removed).~
+Hypnosis~
+3 + (level / 8)~
+N/A~
+Passive/Aggressive~
+Other~
+When successfully cast upon a mob, the victim will become charmed (see HELP CHARM for more information). This spell cannot target players.~
+Seal Room~
+2 + (level / 20)~
+N/A~
+Passive~
+None (Room)~
+This spell will create a magical barrier around the current room. No players or mobs may enter or exit this room via conventional means as long as the seal is active. This spell may be dispelled from inside only, using the 'room dispel' spell.~
+Calm~
+N/A~
+N/A~
+Passive/Defensive~
+None (All)~
+When cast, calm will attempt to pacify all fighting mobs in the room. Level is a very important factor in how effective 'calm' is.~
+Fighting Trance~
+6 + (level / 20)~
+Hitroll+, Damroll+, AC-, Save vs Spell-~
+Defensive~
+None (Self)~
+Fighting trance places you into a state of superior awareness, and increases your skill in combat. The result is a variety of bonuses to fighting stats.~
+Nerve Fire~
+N/A~
+N/A~
+Offensive~
+None (All)~
+This spell will target all mobs in the same room as you (if cast by mobs, will target players). It heats the nervous system of the victims, inflicting some damage.~
+Beacon~
+Random (30-45)~
+N/A~
+Passive~
+Special~
+Name your beacon by typing 'c beacon name'. The beacon will then be called by the name you choose, and all actions involving it must use that name. Also, beacons will expire and vanish after a random amount of time (30-45 ticks), and cannot be donated. Beacons are used for the spells 'portal' and 'window'.~
+Window~
+1 + (level / 30)~
+N/A~
+Passive~
+Special (Beacon)~
+When casting window, target a beacon you created. The beacon must be on the floor for window to work. If successful, a magical two-way window will be created at your location, and the location of the beacon. The beacon will then vanish. You may look through this window to the other side by using 'look in window'.~
+Emotion Control~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, emotion control is always active. When killing aligned monsters, your alignment will no longer change. Once active, the only way to change your align is by sacrificing items to the aligned gods, or by performing other alignment-changing actions (such as lifestealing).~
+Cause Light~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Causes light wounds, damaging the victim.~
+Cure Light~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Cures light wounds, regenerating a small amount of the target's hitpoints.~
+Detect Magic~
+6 + (level / 4)~
+N/A~
+Passive~
+None (Self)~
+While active, 'detect magic' allows the user to detect magical auras, and magical effects on rooms.~
+Bless~
+6 + (level / 6)~
+Hitroll+, Save vs Spell-~
+Defensive~
+Self, Other~
+This holy blessing grants its recipient an increased chance of hitting, and greater protection from hostile spells.~
+Detect Evil~
+5 + (level / 10)~
+N/A~
+Passive~
+None (Self)~
+While active, this spell allows its user to detect evil (Red) auras on items, players and mobs.~
+Create Water~
+N/A~
+N/A~
+Passive~
+Object~
+An empty drink container must be targeted with this spell. The container is then filled with magically conjured water.~
+Detect Poison~
+N/A~
+N/A~
+Passive~
+Object~
+When cast on food or a drink container, this spell will inform the caster if the object is poisoned or not.~
+Refresh~
+N/A~
+N/A~
+Passive/Defensive~
+Self, Other~
+This spell will regenerate some of the victim's movement points.~
+Protection~
+8 + (level / 5)~
+N/A~
+Defensive~
+None (Self)~
+Protects the caster from damage from evil mobs and players. Any evil player or mob attacking a protected character will do 25% less damage in combat.~
+Sanctuary~
+5 + (level / 20)~
+N/A~
+Defensive~
+Self, Other~
+Sanctuary surrounds its target in a white aura (White). This aura will reduce most damage done to its wearer by 50%.~
+Faerie Fog~
+N/A~
+N/A~
+Passive~
+None (All)~
+When cast, faerie fog will fill the room with cloud of purple fog. This fog will reveal invisible players and mobs in the room. Higher level players and mobs are often much less likely to be detected by faerie fog.~
+Detect Hidden~
+4 + (level / 8)~
+N/A~
+Passive~
+None (Self)~
+This allows its user to detect the presence of hidden players and mobs.~
+Bark Skin~
+3 + (level / 12)~
+AC-~
+Defensive~
+None (Self)~
+This spell will harden its caster's skin, until the skin eventually reaches a wood-like state. This will lower the armour class of the wood-skinned mage. This spell will not work if you are already affected by 'stone skin'.~
+Flare~
+1 + (level / 4)~
+N/A~
+Offensive~
+Other~
+Flare calls forth the powers of the Ancient Egyptian sun god, Ra. A blast of godly solar energy is created, which will blind the victim of this spell. This powerful spell cannot be cured by 'cure blindness'.~
+Weaken~
+1 + (level / 16)~
+Strength-~
+Offensive~
+Other~
+A cleric can use this spell to weaken an enemy, resulting in a loss of strength for the target.~
+Know Alignment~
+N/A~
+N/A~
+Passive~
+Other, Self~
+Using this, you can find the general alignment of another character or mob.~
+Create Food~
+N/A~
+N/A~
+Passive~
+None~
+When cast, an edible magic mushroom will appear in the room.~
+Curse~
+2 * (level / 8)~
+Hitroll-, Save vs Spell+~
+Offensive~
+Other~
+When under the effects of a curse, the victim has a reduced chance of hitting and has a worse saving roll against spells. Also, victims cannot recall while the curse remains.~
+Continual Light~
+N/A~
+N/A~
+Passive~
+None~
+This spell will produce a glowing ball of light, worn in the light slot. It will appear on the floor when cast.~
+Remove Curse~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Removes the effects of the curse spell.~
+Cure Blindness~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Removes the effects of blindness.~
+Locate Object~
+N/A~
+N/A~
+Passive~
+Object~
+By naming an object, this spell will show you where objects of this name are. This includes objects in rooms, objects held by players, and objects in containers. Not all objects can be detected by this spell.~
+Poison~
+12 + (level / 10)~
+Strength-~
+Offensive~
+Other, Self~
+Poison will reduce the strength of the victim, causing them to perform poorly in combat and possibly remove heavy equipment.~
+Cure Poison~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+As its name suggests, this spell will cure and remove the effect 'poison'.~
+Call Lightning~
+N/A~
+N/A~
+Offensive~
+None (All)~
+Call lighting may only be cast in poor weather. It will attack all mobs in the room when cast (or when cast by a mob, it will attack players), dealing damage and initiating combat.~
+Cause Serious~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Causes serious wounds on the target, dealing damage to them. More effective than 'cause light'.~
+Cure Serious~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Cures serious wounds, causing the target of the spell to regenerate some hitpoints. More effective than 'cure light'.~
+Cause Critical~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Causes critical wounds on the target, dealing damage to them. More effective than 'cause serious'.~
+Cure Critical~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Cures critical wounds, causing the target of the spell to regenerate some hitpoints. More effective than 'cure serious'.~
+Harm~
+N/A~
+Strength-~
+Offensive~
+Other, Self~
+Deals damage (of similar amount to 'cause serious'), but also poisons the target.~
+Heal~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Heals wounds, causing the target of the spell to regenerate some hitpoints. Also cures poison. More effective than 'cure critical'.~
+Flamestrike~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Calls a vertical pillar of flame, which will engulf and damage the target of this spell.~
+Create Spring~
+level~
+N/A~
+Passive~
+None~
+A magical spring will appear in the room. The water it provides may be used for drinking, filling containers, etc.~
+Influx~
+N/A~
+N/A~
+Defensive~
+None (All)~
+When cast, influx will heal some hitpoints on every player and mob in the same room as you.~
+Word of Recall~
+N/A~
+N/A~
+Passive~
+None (Self)~
+Word of recall acts like the 'recall' command, transporting you, when possible, to the recall room. Unlike 'recall', word of recall will not fail in combat (although you still may lose concentration like other spells). Also, certain races will recall to different areas, and your word of recall room will not change if your usual recall room does (eg. Realm Lord Keep recall).~
+Earthquake~
+N/A~
+N/A~
+Offensive~
+None (All)~
+Earthquake will attack all mobs in the room when cast (or when cast by a mob, it will attack players), dealing damage and initiating combat.~
+Control Weather~
+?~
+N/A~
+Passive~
+Special~
+By specifying 'better' or 'worse', the caster of this spell will attempt to manipulate the elements and alter the planetary weather system for better or worse.~
+Armor~
+24~
+AC-~
+Defensive~
+Self, Other~
+Surrounds the target in a magical forcefield. This will act as armor, providing the wearer with an AC bonus.~
+Faerie Fire~
+5 + (level / 4)~
+AC+~
+Passive~
+Other, Self~
+The victim of this spell will be surrounded with pink fumes, making them much easier to see and fight. The effect of this is a penalty to AC.~
+Magic Missile~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Tiny magical missiles are fired at the target of this spell, inflicting damage. Higher level casters are able to summon multiple missiles.~
+Ventriloquate~
+N/A~
+N/A~
+Passive~
+Special~
+By using 'c ventriloquate name text', a message will appear to everyone in the room as if 'name' had said 'text', except the person whose name you chose (they will not see anything). If this spell is only half-successful, the message will be shown, but it will be indicated that it was created with ventriloquate. Since a casting message is not shown, other players will not be able to tell who casts ventriloquate.~
+Bad Breath~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+By expelling a foul smelling gas from the mouth, the caster can damage a target of their choice.~
+Shocking Grasp~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+An electric shock is discharged into your victim as you touch them with your magically empowered hands.~
+Burning Hands~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Jets of flame are fired from the hands of the caster, damaging the target.~
+Colour Spray~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+A rainbow spray of colours shoots forth, striking the target and inflicting damage. This will not, under any circumstances, cause blindness.~
+Chill Touch~
+(3)~
+(Strength-)~
+Offensive~
+Other, Self~
+The caster will touch the enemy with cold-enchanted hands, causing damage. This spell MAY reduce the strength of the victim by 1 for 3 ticks.~
+Detect Undead~
+5 + (level / 6)~
+N/A~
+Passive~
+None (Self)~
+Allows the caster to detect undead auras. If a being is undead, they will be marked with the (Undead) flag.~
+Identify~
+N/A~
+N/A~
+Passive~
+Object~
+When cast upon an object in your inventory, it will display certain properties of that item.~
+Shield~
+4 + (level / 5)~
+AC-~
+Defensive~
+Self, Other~
+Decreases the AC of the victim by protecting them with a magical shield.~
+Sleep~
+4 + (level / 15)~
+N/A~
+Offensive~
+Other~
+Sends the victim into a deep, magic-induced sleep. The victim cannot wake up manually, but may be woken from the outside if they are attacked. This spell does not seem to work properly..~
+Mystic Armour~
+4 + (level / 3)~
+AC-~
+Defensive~
+Other~
+Mystic armour provides a bonus to AC, but may only be cast on someone else.~
+Blindness~
+1 + (level / 4)~
+N/A~
+Offensive~
+Other~
+Victim is blinded, and suffers a hitroll penalty.~
+Invis~
+4 + (level / 5)~
+N/A~
+Passive~
+Self, Other, Object~
+The target becomes invisible, and cannot be seen except by those with detect magic. Invisible mobs cannot be seen if the player is of a lower level. When cast upon objects, the invisibility is permanent (unless dispelled).~
+Giant Strenth~
+2 + (level / 4)~
+Strength+~
+Defensive~
+Self, Other~
+Gaining the might of a Giant, this spell increases the strength of its recipient. Strength gained in this way cannot force the character's strength over its maximum number.~
+Detect Invis~
+6 + (level / 8)~
+N/A~
+Passive~
+None (Self)~
+Allows the caster to see invisible players, and also see invisible mobs provided the mob is of a similar or lower level.~
+Infravision~
+4 + (level / 3)~
+N/A~
+Passive~
+Self, Other~
+While active, infravision allows you to see in the dark without need for a light source.~
+Fly~
+3 + (level / 6)~
+N/A~
+Passive~
+Self, Other~
+While flying, one may pass effortlessly over water, obstructing land formations, and areas without land at all.~
+Lightning Bolt~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+A lightning bolt is fired from the hand of the caster, striking the target. The victim is damaged by this shocking zap.~
+Fireball~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+The caster summons a massive ball of flame, which is directed at the target. On impact the fireball explodes, incinerating whomever it hit. Not quite as damaging as it sounds, but it WILL hurt the target if successful.~
+Sight~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Same as 'cure blindness', except it can't be cast in combat. When cast by Cadaver however, it acts like 'detect invis'.~
+Summon~
+N/A~
+N/A~
+Passive~
+Other~
+This spell will teleport your target from anywhere on the mud, to you. However, some areas will prevent summoning, and if either you or the target is in such an area, this spell will fail. Also, players may prevent themselves from being summoned using 'config +nosummon'.~
+Stone Skin~
+5 + (level / 12)~
+AC-~
+Defensive~
+None (Self)~
+The caster of this spell will have hardened, stone-like skin, lowering their AC.~
+Enchant Weapon~
+Permanent~
+Weapon Hitroll+, Weapon Damroll+~
+Passive~
+Object~
+When cast on a non-magical weapon, that weapon will gain some hitroll and damroll. The weapon will also become aligned based on the casters alignment: good makes anti-evil, evil makes anti-good, neutral makes anti-evil and anti-good.~
+Teleport~
+N/A~
+N/A~
+Passive~
+None (Self)~
+Teleports the caster to a random room in almost any area. Some rooms and some areas cannot be teleported into.~
+Hellspawn~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Summons the dark powers of the HellSpawn to strike down your enemy! This will inflict damage on whoever is unfortunate enough to get in its way.~
+Pass Door~
+2 + (level / 20)~
+N/A~
+Passive~
+None (Self)~
+The caster of this spell shifts their body into another plane of existence. In this state, the caster will be able to pass through closed and even locked doors. Some doors are magically protected, and this spell will not assist you in passing them.~
+Acid Blast~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Blast your enemy with this magical acid! It inflicts significant damage!~
+Charm Person~
+3 + (level / 8)~
+N/A~
+Passive/Aggressive~
+Other~
+When successfully cast upon a mob, the victim will become charmed (see HELP CHARM for more information). This spell cannot target players.~
+Mass Invis~
+4 + (level / 5)~
+N/A~
+Passive~
+None (All)~
+This spell casts 'invis' on every player and mob in the room.~
+Chain Lightning~
+N/A~
+N/A~
+Offensive~
+None (All)~
+Chain lighting will send a bolt of lightning out to attack every mob in the room (when cast by mobs, it will target players). The bolt's energy reduces with each target struck. When each mob has been hit, the bolt will either vanish or return to strike the caster.~
+Change Sex~
+5 + (level / 10)~
+Gender~
+Passive~
+Other, Self~
+Change sex will temporarily change the gender its victim to a random gender.~
+Dispel Magic~
+Permanent~
+N/A~
+Offensive/Passive~
+Other, Object, Self~
+When cast upon a player or mob, 'dispel magic' will attempt to remove any magical effects the target is affected by. When cast upon an object in your inventory, 'dispel magic' will remove almost all of the item's magical properties.~
+Portal~
+1 + (level / 30)~
+N/A~
+Passive~
+Special (Beacon)~
+When casting portal, target a beacon you created. The beacon must be on the floor for portal to work. If successful, a magical two-way portal will be created at your location, and the location of the beacon. The beacon will then vanish. You may enter this portal by typing 'enter portal'. Certain areas and rooms are affected by special anti-magic fields that prevent portals from operating. In such cases, there is a VERY high chance (or sometimes an absolute certainty) that the portal will explode when you try to use it.~
+Throwing Needle~
+12 + (level / 10)~
+Strength-~
+Offensive~
+Other, Self~
+An assassin may cast this spell to throw a poisoned needle. The poison it holds will reduce the strength of the victim, as well as doing a little damage on impact.~
+Dualwield~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, dualwielding weapons will be possible. While dualwielding, you may not use a shield or a hold item. While you will strike only with your first weapon, you still receive some benefits of the second, such as: some weapon abilities (dispel), slightly increased chance of hitting, and any stat bonuses on the weapon.~
+Rune:Poison~
+level + 2-20(random)~
+Strength-~
+Passive Attack~
+None (Room)~
+This rune will hang in the room it was cast upon. The next being to enter the room will trigger it, and the rune will explode and dissipate, poisoning the victim.~
+Poison Weapon~
+Permanent~
+Weapon Damroll+~
+Passive~
+Object~
+This spell adds a small amount of damroll to the weapon it is cast upon. The amount id dependant on the level of the caster, and may be no more than the level of the weapon.~
+Disguise~
+N/A~
+N/A~
+Passive~
+Special~
+By typing 'disguise <description>', you will become disguised until the time you log off.  When anyone sees you in a room, instead of showing your normal name it will show the disguise description you specified. To remove a disguise, use 'disguise reset'.~
+Grab~
+1-4(random)~
+N/A~
+Offensive~
+Enemy~
+Usable only in combat, grab will cause your opponent to stop striking in combat, and will also prevent them from using most commands. This effect will last from 1 to 4 combat rounds, and has a greater chance of success when your enemy is low on hitpoints.~
+Scout~
+N/A~
+N/A~
+Passive~
+None~
+Similar to 'scan', scout lets you see mobs and players in the cardinal directions. With scout you will scan past adjacent rooms, looking into multiple rooms in each direction where possible. Players will scout from 2 to 4 rooms, depending on how well the skill has been practiced and the player's class order.~
+Cage~
+(level / 20) + 2-20(random)~
+N/A~
+Passive~
+None (Room)~
+The cage is a magical barrier which surrounds the room in which it is cast. Players and mobiles can enter the room, but cannot leave via normal room exits. A cage may only be removed by casting 'room dispel' while inside.~
+Withering Shadow~
+(level / 8) + 2-10(random)~
+N/A~
+Passive~
+None (Room)~
+Withering shadow will hang in a room, causing a slow hitpoint drain on all players and mobiles in it.~
+Room Dispel~
+N/A~
+N/A~
+Passive~
+None (Room)~
+This will dispel any room spells in the room of the caster.~
+Fifth Attack~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, fifth attack is always active. It gives the player a chance of doing one additional round of damage per combat round.~
+Throwing Star~
+12 + (level / 10)~
+Damroll-~
+Offensive~
+Other, Self~
+The caster of this spell will throw a poisoned throwing star at the target. If hit, the victim will suffer a small amount of damage and the poison will reduce their damroll.~
+Sixth Attack~
+Permanent~
+N/A~
+Permanent~
+N/A~
+Once learned, sixth attack is always active. It gives the player a chance of doing one additional round of damage per combat round.~
+Summon Shadow~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a mountable, charmed Shadow Hound. The hound will cast a fireshield when mounted.~
+Cloak:Flaming~
+level / 8~
+N/A~
+Defensive~
+None (Self)~
+This will surround the caster in a magical cloak of fire. Any being which damages a player or mobile with a flaming cloak will be burnt, themselves taking an amount of damage according to how much damage was done.~
+Deflect Weapon~
+16~
+AC-~
+Defensive~
+Self, Other~
+The target of this spell is be protected by a magical force that will deflect incoming blows. This lowers the AC of the enchanted one.~
+Rune:Shock~
+level + 2-20(random)~
+N/A~
+Passive Attack~
+None (Room)~
+This rune will hang in the room it was cast upon. The next being to enter the room will trigger it, and the rune will explode and dissipate, damaging the victim with electricity.~
+Frenzy~
+N/A~
+N/A~
+Offensive~
+None (All)~
+Frenzy is an attack on all mobs in the room, with the exception of charmed mobs whose master is in your group. It will do damage equivalent to one hit in combat. If a mob is killed in the frenzy, the attack will stop and no mobs further down the chain will be hit.~
+Mana Flare~
+(level / 8) + 2-10(random)~
+N/A~
+Passive~
+None (Room)~
+The mana flare will cause increased mana regeneration in all mobs and players in the room as long as it remains.~
+Ethereal Travel~
+N/A~
+N/A~
+Passive~
+None (Self)~
+When cast, ethereal travel will transport the caster to the Ethereal Plane. There is a 15% chance this spell will backfire and send the caster to Limbo.~
+Stun~
+1-4(random)~
+N/A~
+Offensive~
+Enemy~
+Usable only in combat, stun will cause your opponent to stop striking in combat, and will also prevent them from using most commands. This effect will last from 1 to 4 combat rounds, and has a greater chance of success when your enemy is low on hitpoints. Monks get a bonus to stun, making it last from 1 to 2 (random) extra rounds.~
+Adrenaline~
+Permanent / 1~
+Damroll+~
+Permanent / Defensive~
+N/A~
+Once learned, adrenaline will always be used. If hit for more than 200 damage, you will receive an adrenaline bonus of 1 damroll for 1 tick duration. Multiple adrenaline bonuses will reset the duration and add to the damroll bonus. When the bonus wears off, you will suffer hp loss based on how large the bonus was. This hp loss can never kill you, but it can take you to very low hp.~
+Healing Light~
+(level / 8) + 2-10(random)~
+N/A~
+Passive~
+None (Room)~
+While the room is affected by healing light, all players and mobs in the room will regenerate hitpoints faster.~
+Cloak:Absorption~
+level / 8~
+N/A~
+Defensive~
+None (Self)~
+This cloak will attempt to absorb harmful spells, thereby protecting its caster.~
+Creature Bond~
+pseudolevel / 3~
+N/A~
+Passive/Aggressive~
+Other~
+Must target a charmed mob. If successful, the mob will abandon its owner and come under your control. If you fail, the mob gets very angry and will attack you.~
+Summon Devourer~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a mountable, charmed Intellect Devourer. The devourer will cast a shockshield when mounted.~
+Cloak:Reflection~
+level / 8~
+N/A~
+Defensive~
+None (Self)~
+This cloak will attempt to reflect harmful spells targeted at the wearer of this cloak back onto the caster!~
+Cloak:Regeneration~
+pseudolevel / 10~
+N/A~
+Defensive~
+None (Self)~
+The wearer of this cloak will regenerate hitpoints faster.~
+Heat Armor~
+Random~
+N/A~
+Offensive~
+Other, Self~
+If successful, this spell will heat a piece of equipment worn by the target. As long as this equipment continues to be worn, it will constantly burn and damage the wearer.~
+Morale~
+4 + (level / 5)~
+Damroll+~
+Defensive~
+None (Group)~
+Inspires you and your group (as long as they are in the same room as you), increasing the group's fighting ability!~
+Target~
+N/A~
+N/A~
+Offensive~
+Other~
+By targeting a player or mob in the room, you will start fighting them. If you are already fighting, your attacks will now be focused on the new target.~
+Holy Armor~
+12~
+AC-~
+Defensive~
+Self, Other~
+Protects the victim with holy armor, giving them a bonus to AC.~
+Holy Light~
+N/A~
+N/A~
+Defensive~
+None (Group)~
+Every member of your group in the same room as you (including yourself) is healed, regaining some lost hitpoints.~
+Summon Pegasus~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a mountable, charmed Magestic Pegasus. The pegasus will cast an iceshield when mounted.~
+Charge~
+N/A~
+N/A~
+Offensive~
+Other~
+Charges into your victim, doing damage. Can be used in or out of combat.~
+Divine Intervention~
+N/A~
+N/A~
+Defensive~
+Self, Other~
+Target is healed, regaining lost hitpoints. This spell is potentially better than 'heal'.~
+Holy Avenger~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Holy Avenger. You may order this creature to perform tasks for you.~
+Ice Bolt~
+N/A~
+N/A~
+Offensive~
+Other, Self~
+Fires a bolt of deadly ice, which will cause damage.~
+Water Elemental~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Water Elemental. You may order this creature to perform tasks for you.~
+Fire Elemental~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Fire Elemental. You may order this creature to perform tasks for you.~
+Earth Elemental~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Earth Elemental. You may order this creature to perform tasks for you.~
+Iron Golem~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Iron Golem. You may order this creature to perform tasks for you.~
+Diamond Golem~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Diamond Golem. You may order this creature to perform tasks for you.~
+Summon Beast~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a mountable, charmed Elemental Beast. The beast will cast a shockshield when mounted.~
+Rune:Fire~
+level + 2-20(random)~
+N/A~
+Passive Attack~
+None (Room)~
+This rune will hang in the room it was cast upon. The next being to enter the room will trigger it, and the rune will explode and dissipate, damaging the victim with a fiery blast.~
+Lava Burst~
+Random~
+N/A~
+Offensive~
+Other, Self~
+This spell may inflict damage on the target, or may cause a piece of the targets worn equipment to become heated. As long as heated equipment continues to be worn, it will constantly burn and damage the wearer.~
+Mana Drain~
+(level / 8) + 2-10(random)~
+N/A~
+Passive~
+None (Room)~
+All mobs and players in a room with a mana drain will slowly lose their available mana.~
+Shockshield~
+pseudolevel/7 ticks *OR* 7000+(pseudolevel*20) damage~
+N/A~
+Defensive~
+None (Self)~
+You may only have one '*shield' spell active at any one time. If you are hit while shockshield is active, the attacker will also take damage whenever it damages you. This is less damaging than fireshield, but lasts longer.~
+Fireshield~
+pseudolevel/10 ticks *OR* 5000+(pseudolevel*10) damage~
+N/A~
+Defensive~
+None (Self)~
+You may only have one '*shield' spell active at any one time. If you are hit while fireshield is active, the attacker will also take damage whenever it damages you. This is more damaging than shockshield, but does not last as long.~
+Iceshield~
+pseudolevel/15 ticks *OR* 15000+(pseudolevel*50) damage~
+N/A~
+Defensive~
+None (Self)~
+You may only have one '*shield' spell active at any one time. If you are hit while iceshield is active, you will take 30% less damage.~
+Retributive Strike~
+N/A~
+N/A~
+Offensive~
+None (All)~
+You must be holding a staff to cast retributive strike. When cast, the staff will completely disintegrate, and a powerful blast of fire will strike and damage all mobs and players in the room. There is a chance that equipment on players and mobs will be heated if they are hit by this spell.~
+Skeleton~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Skeleton form the Negative Plane. You may order this creature to perform tasks for you.~
+Summon Nightmare~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a mountable, charmed Demonic Nightmare. The nightmare will cast a fireshield when mounted.~
+Soul Thief~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Soul Thief. You may order this creature to perform tasks for you.~
+Black Hand~
+3~
+Hitpoints(?)~
+Offensive~
+Other, Self~
+The black hand will suffocate its victim for 3 ticks before vanishing. While active the victim will suffer from a small hitpoint drain. Also, every tick, the victim will take damage equal to the level of the caster.~
+Corrupt Bond~
+N/A~
+N/A~
+Passive/Aggressive~
+Other~
+By corrupting the magical bond between charmie and master, the caster of this spell will attempt to make the targeted mob turn and attack its owner. If the spell fails, the charmie will become enraged and will savagely attack the caster of this spell.~
+Soul Net~
+level / 8~
+N/A~
+Passive~
+None (Room)~
+If a creature dies in a room with a soul net, the net will vanish, as will the corpse of the dead mob. In the room will be a small statue containing the mob's soul. The soul is a hold-slot, anti-good item with level equal to that of the mob from which it was created.~
+Animate~
+pseudolevel / 3~
+N/A~
+Passive~
+Special (Corpse)~
+Casting this spell on a corpse will cause it to rise into an undead zombie, which will be charmed and will follow you. The zombie will be the same level as the mob from which it was made.~
+Infuse~
+Permanent~
+Weapon Hitroll+, Weapon Damroll+~
+Passive~
+Object~
+While holding a soul and targeting a weapon in your inventory, this spell will infuse the weapon with the soul of the dead mob (the soul is lost). The weapon will gain a hitroll and damroll bonus based on the level of the soul used (max +15/+15 for a level 120 soul). Also, the weapon will now cast "soul spells" in combat, and will lose other combat-casting spells it had (e.g. healing). This spell will cause the caster to lose 100 hp PERMANENTLY.~
+Condense Soul~
+N/A~
+N/A~
+Passive~
+None~
+While holding a soul, casting this spell will cause the soul to vanish and be replaced by a Soul Potion. When quaffed, the Soul Potion will restore ALL of the user's hitpoints, mana and moves, as well as casting 'mana flare' and 'healing light'. Casting 'condense soul' will cause the caster to lose 75 hp PERMANENTLY.~
+Cloak:Adept~
+pseudolevel / 5~
+N/A~
+Defensive~
+None (Self)~
+Cloak:Adept makes you fight better in many ways, but most importantly it makes you do more damage.~
+Group Heal~
+N/A~
+N/A~
+Defensive~
+None (Group)~
+Heals some hitpoints on every group member currently in the same room as you (yourself included).~
+Carapace~
+9~
+Hitroll+, Damroll+, Save vs Spell-, AC-~
+Defensive~
+None (Self)~
+Skeletal armour encases the caster of this spell, granting them additional powers and strength!~
+Summon Shadowdragon~
+pseudolevel / 3~
+N/A~
+Passive~
+None~
+Summons a charmed Shadowdragon, the greatest of mounts.~
+Demonshield~
+pseudolevel/10 ticks *OR* 6000+(pseudolevel*10) damage~
+N/A~
+Defensive/Offensive~
+None (Self)~
+While the caster has Demonshield up, any time the shield takes damage, there is a chance that it will cast a spell on the person doing the damage~
+Cloak:Mana~
+level / 8~
+N/A~
+Defensive~
+None (Self)~
+This will surround the caster in a cloak of Magic. The person with the cloak up, can't have cloak:flaming up at the same time.  The cloak allows the caster to take damage to Mana, the amount done to mana varies depending on remort combination, where Sor and Nec combo takes most damage to mana.~
+Hellfire~
+N/A~
+N/A~
+Offensive~
+None (All)~
+Will release Hellfire from the sky, initiating combat of all things in a room, this spell will not affect charmies though.~
+Equestrian Proficiency~
+Permanent while mounted~
++Damroll, +Hitroll, -AC~
+Defensive/Offensive~
+Self~
+A bonus to knights who mount mobs. They get a gain to DR, HR, and -AC. As they increase in level, their gain increases as well.~
+Unit Tactics~
+Permanent~
+Permanent~
+N/A~
+N/A~
+Will increase the amount of charmable mobiles a person can control.  The number varies depending on your intelligence and how well you have practiced Unit Tactics.~
+Blood Walk~
+n/a~
+n/a~
+n/a~
+n/a~
+What are you shelping this spell for? It doesn't exist! GO AWAY@#$~
+Gaze Mirror~
+Instant~
+n/a~
+Passive~
+n/a~
+Gaze mirror will allow the caster to look into a mirror, and see a reflection of themselves.  This is particularly useful in seeing your own disguise.~
+Rune:Warning~
+30 ~
+n/a~
+Passive~
+room~
+This rune will hang in a room it was cast in.  Then the next person or mob to walk in will trigger the rune and send a message to the rune's owner letting them know that a player or mob has tripped it.  Once triggered the rune vanishes into thin air.  To use the Rune, you must give it a name, such as  c 'rune:warning' Crimson.~
+Giant Strength~
+2 + (level / 4)~
+Str+~
+Defensive~
+Self, Other~
+Giant Strength will provide a player additional strength when they need it.~
+Nutrition~
+Permanently~
+n/a~
+Passive~
+None (Self)~
+When practiced to novice level, you will no longer need food and become hungry. You may still, however, continue to eat without becoming full.~
+Nutrition Novice~
+Permanently~
+n/a~
+Passive~
+None (Self)~
+When practiced to novice level, you will no longer need food and become hungry. You may still, however, continue to eat without becoming full.~
+Coldwave~
+Instant~
+n/a~
+Defensive~
+Self~
+Coldwave will cool down a heated, worn item. Amount of items cooled depends on how well it is practiced. Mastery of Coldwave will enable the caster to cool down group members' worn items as well.~
+Coldwave Novice~
+Instant~
+n/a~
+Defensive~
+Self~
+Cools down 1 of your own worn items.~
+Coldwave Intermediate~
+Instant~
+n/a~
+Defensive~
+Self~
+Cools down 2 of your own worn items.~
+Coldwave Advanced~
+Instant~
+n/a~
+Defensive~
+Self~
+Cools down 3 of your own worn items.~
+Coldwave Expert~
+Instant~
+n/a~
+Defensive~
+Self~
+Cools down 4 of your own worn items.~
+Coldwave Master~
+Instant~
+n/a~
+Defensive~
+Self + Group Members~
+Cools down 5 of your own worn items, and 2 of every single group members' worn items.~
+Sentry~
+Varies~
+n/a~
+Passive~
+Room~
+This room affect is like Rune:Warning except it does not disappear once triggered. The more you practice it, the more information about the person or mob who triggers the sentry will be revealed.~
+Sentry Novice~
+2~
+n/a~
+Passive~
+Room~
+This room affect is like Rune:Warning except it does not disappear once triggered. At novice level, it will tell you whether a PC or a NPC triggered the sentry.~
+Sentry Intermediate~
+5~
+n/a~
+Passive~
+Room~
+This room affect is like Rune:Warning except it does not disappear once triggered. At intermediate level, it will tell you whether a PC or a NPC triggered the sentry, and if it was an NPC, reveal their name.~
+Sentry Advanced~
+10~
+n/a~
+Passive~
+Room~
+This room affect is like Rune:Warning except it does not disappear once triggered. At advanced level, it will tell you whether a PC or a NPC triggered the sentry, and if it was an NPC, reveal their name.~
+Sentry Expert~
+15~
+n/a~
+Passive~
+Room~
+This room affect is like Rune:Warning except it does not disappear once triggered. At expert level, it will tell you whether a PC or a NPC triggered the sentry, and reveal the PC or NPCs name.~
+Sentry Master~
+30~
+n/a~
+Passive~
+Room~
+This room affect is like Rune:Warning except it does not disappear once triggered. At master level, it will tell you whether a PC or a NPC triggered the sentry, and reveal the PC or NPCs name.~
+Smokescreen~
+Varies~
+n/a~
+Passive~
+Room/Area~
+Smokescreen fills the room with smoke, hiding players in the room from search commands such as where, cwhere, scan, and scout. The better it is practiced, the more commands the room is hidden from and the longer the duration. Smokescreens can not be room dispelled.~
+Smokescreen Novice~
+1~
+n/a~
+Passive~
+Room~
+Smokescreen fills the room with smoke, hiding players in the room from the search command: scan. Smokescreens can not be room dispelled.~
+Smokescreen Intermediate~
+4~
+n/a~
+Passive~
+Room~
+Smokescreen fills the room with smoke, hiding players in the room from the search commands: scan, scout. Smokescreens can not be room dispelled.~
+Smokescreen Advanced~
+8~
+n/a~
+Passive~
+Room~
+Smokescreen fills the room with smoke, hiding players in the room from the search commands: scan, scout, cwhere. Smokescreens can not be room dispelled.~
+Smokescreen Expert~
+12~
+n/a~
+Passive~
+Room~
+Smokescreen fills the room with smoke, hiding players in the room from the search commands: scan, scout, cwhere, where. Smokescreens can not be room dispelled.~
+Smokescreen Master~
+20~
+n/a~
+Passive~
+Area~
+Smokescreen fills the entire area with smoke, hiding players in the area from the search commands: scan, scout, cwhere, where. Smokescreens can not be room dispelled.~
+Stealth~
+Depends on energy~
+n/a~
+Passive~
+None (Self)~
+Stealth is a skill that adds benefits to the existing Ninja stance. At the novice level, you can move from room to room while maintaining the Ninja stance. You will not regenerate, and instead energy will be consumed at a rate of 1 per second. If your energy reaches 0, you will exit the Ninja stance. The better you practice it, the higher level sentry you can evade. At advanced, you can covertly follow people, and at master even aggressive mobs won't catch you! Type help stealth for more information on usage.~
+Stealth Novice~
+Depends on energy~
+n/a~
+Passive~
+None (Self)~
+Stealth is a skill that adds benefits to the existing Ninja stance. At the novice level, you can move from room to room while maintaining the Ninja stance and your room enter/exit messages won't be shown. You will also not trigger novice sentries. You will not regenerate, and instead energy will be consumed. If your energy reaches 0, you will exit the Ninja stance. Type help stealth for more information on usage.~
+Stealth Intermediate~
+Depends on energy~
+n/a~
+Passive~
+None (Self)~
+Stealth is a skill that adds benefits to the existing Ninja stance. At the intermediate level, you will receive the same benefits as novice, plus you won't trigger intermediate sentries, nor will you trigger other runes such as rune:fire, etc. Type help stealth for more information on usage.~
+Stealth Advanced~
+Depends on energy~
+n/a~
+Passive~
+None (Self)~
+Stealth is a skill that adds benefits to the existing Ninja stance. At the advanced level, you will receive the same benefits as novice/intermediate, plus you will not trigger advanced sentries, and you can covertly follow people. Type help stealth for more information on usage.~
+Stealth Expert~
+Depends on energy~
+n/a~
+Passive~
+None (Self)~
+Stealth is a skill that adds benefits to the existing Ninja stance. At the expert level, you will receive the same benefits as novice/intermediate/advanced, plus you will not trigger expert sentries. Type help stealth for more information on usage.~
+Stealth Master~
+Depends on energy~
+n/a~
+Passive~
+None (Self)~
+Stealth is a skill that adds benefits to the existing Ninja stance. At the master level, you will receive the same benefits as novice/intermediate/advanced/expert, plus aggressive mobs won't try to attack you. Type help stealth for more information on usage.~
+Tranquility~
+Varies~
+n/a~
+Defensive~
+Self~
+Gives you a safe timer, preventing you from being attacked by players for a limited duration. You must have stopped fighting for 10 seconds before you can use this spell. The better learned the spell, the higher the duration of the timer, and at master, it will also affect all group members that qualify.~
+Tranquility Novice~
+10 seconds~
+n/a~
+Defensive~
+Self~
+Gives you a safe timer, preventing you from being attacked by players for 10 seconds. You must have stopped fighting for 10 seconds before you can use this spell.~
+Tranquility Intermediate~
+60 seconds~
+n/a~
+Defensive~
+Self~
+Gives you a safe timer, preventing you from being attacked by players for 60 seconds. You must have stopped fighting for 10 seconds before you can use this spell.~
+Tranquility Advanced~
+120 seconds~
+n/a~
+Defensive~
+Self~
+Gives you a safe timer, preventing you from being attacked by players for 120 seconds. You must have stopped fighting for 10 seconds before you can use this spell.~
+Tranquility Expert~
+180 seconds~
+n/a~
+Defensive~
+Self~
+Gives you a safe timer, preventing you from being attacked by players for 180 seconds. You must have stopped fighting for 10 seconds before you can use this spell.~
+Tranquility Master~
+300 seconds~
+n/a~
+Defensive~
+Self + Group Members~
+Gives you and your group members a safe timer, preventing you from being attacked by players for 300 seconds. You (and group members) must have stopped fighting for 10 seconds before you can use this spell.~
+Compassion~
+Permanently~
+n/a~
+Defensive~
+None (Self)~
+Due to a heightened mental link with charmed mobiles, it is harder to corrupt and creature bond charmed mobiles that belong to a compassionate player. The greater the compassion skill, the harder it is to overcome their bond.~
+Compassion Novice~
+Permanently~
+n/a~
+Defensive~
+None (Self)~
+30% chance of deflecting creature bond/corrupt.~
+Compassion Intermediate~
+Permanently~
+n/a~
+Defensive~
+None (Self)~
+40% chance of deflecting creature bond/corrupt.~
+Compassion Advanced~
+Permanently~
+n/a~
+Defensive~
+None (Self)~
+50% chance of deflecting creature bond/corrupt.~
+Compassion Expert~
+Permanently~
+n/a~
+Defensive~
+None (Self)~
+60% chance of deflecting creature bond/corrupt.~
+Compassion Master~
+Permanently~
+n/a~
+Defensive~
+None (Self)~
+75% chance of deflecting creature bond/corrupt.~
+Innerflame~
+Varies~
+n/a~
+Defensive~
+None (Self)~
+Concentrating on your inner flame allows you quicker recovery times from the skills: backstab, circle, stun, and grab. The greater the inner flame skill, the quicker the recovery time and the longer the duration of the inner flame.~
+Innerflame Novice~
+2~
+n/a~
+Defensive~
+None (Self)~
+Concentrating on your inner flame allows you quicker recovery times from the skills: backstab, circle, stun, and grab. Novice gives a reduction of 2 beats. The default beats for the skills listed is 24, so the new waiting time becomes 22 for novice.~
+Innerflame Intermediate~
+4~
+n/a~
+Defensive~
+None (Self)~
+Concentrating on your inner flame allows you quicker recovery times from the skills: backstab, circle, stun, and grab. Intermediate gives a reduction of 4 beats. The default beats for the skills listed is 24, so the new waiting time becomes 20 for intermediate.~
+Innerflame Advanced~
+6~
+n/a~
+Defensive~
+None (Self)~
+Concentrating on your inner flame allows you quicker recovery times from the skills: backstab, circle, stun, and grab. Advanced gives a reduction of 6 beats. The default beats for the skills listed is 24, so the new waiting time becomes 18 for advanced.~
+Innerflame Expert~
+10~
+n/a~
+Defensive~
+None (Self)~
+Concentrating on your inner flame allows you quicker recovery times from the skills: backstab, circle, stun, and grab. Expert gives a reduction of 8 beats. The default beats for the skills listed is 24, so the new waiting time becomes 16 for expert.~
+Innerflame Master~
+15~
+n/a~
+Defensive~
+None (Self)~
+Concentrating on your inner flame allows you quicker recovery times from the skills: backstab, circle, stun, and grab. Master gives a reduction of 12 beats. The default beats for the skills listed is 24, so the new waiting time becomes 12 for master.~
